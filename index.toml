@@ -11,13 +11,28 @@ hash = "ce1fe1e69721bf56e277be993505956c88c3036e8d826a85eb83d9a3cf8305aa"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "4531db2542b54aeea35ae6ab95da5a50667c0d53644ae5c43fb5a94b1237e9dd"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "6f3c94c24b727270e851fb923b5347d44b5a401f56c11c8e00beffe099986968"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -28,6 +43,16 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "4175b5ae65bfff65d1f04f908aa1aa894c9e7131d10383edb874542866276272"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
 
 [[files]]
@@ -51,13 +76,53 @@ hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "62fe935015220fde5fa84833905a0a7704821e7154f1ef733cb8a2beb8371304"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "9c72d51f02d4c31dcca106732731d33cdee50fdb86df8c5111a329c64923308a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
 metafile = true
 
 [[files]]
@@ -73,4 +138,14 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
