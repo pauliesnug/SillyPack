@@ -86,6 +86,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.pw.toml"
+hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
