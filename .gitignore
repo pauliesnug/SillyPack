@@ -199,8 +199,7 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/forgegradle,gradle,java,node
 
-# Exclude exported CurseForge zip files
-*.zip
-
 # Exclude exported Modrinth modpacks
+packwiz.*
+*.zip
 *.mrpack
