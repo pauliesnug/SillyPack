@@ -56,6 +56,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3e1a381807b8bfe1abb6be6b043b64d9426097bb4ea16c6aa956f6a151f5c72e"
 metafile = true
 
 [[files]]
