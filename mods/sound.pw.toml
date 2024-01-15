@@ -1,0 +1,13 @@
+name = "Sounds"
+filename = "Sounds-0.4.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/KoieAsFw/Sounds-0.4.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "c1807ab4c6a9a7ea0e89ea1b59daf888a745664a"
+
+[update]
+[update.modrinth]
+mod-id = "ZouiUX7t"
+version = "KoieAsFw"

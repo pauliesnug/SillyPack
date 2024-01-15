@@ -1,0 +1,22 @@
+[
+    "create:shaft",
+    "create:cogwheel",
+    "create:large_cogwheel",
+    "create:andesite_encased_shaft",
+    "create:brass_encased_shaft",
+    "create:andesite_encased_cogwheel",
+    "create:brass_encased_cogwheel",
+    "create:andesite_encased_large_cogwheel",
+    "create:brass_encased_large_cogwheel",
+    "create:gearbox",
+    "create:clutch",
+    "create:vertical_gearbox",
+    "create:gearshift",
+    "create:encased_chain_drive",
+    "create:adjustable_chain_gearshift",
+    "create:speedometer",
+    "create:stressometer",
+    "create:sequenced_gearshift",
+    "create:rotation_speed_controller",
+    "create:flywheel"
+  ]

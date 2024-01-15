@@ -1,0 +1,16 @@
+[
+    "create:belt_connector",
+    "create:chute",
+    "create:smart_chute",
+    "create:depot",
+    "create:weighted_ejector",
+    "create:portable_storage_interface",
+    "create:andesite_funnel",
+    "create:brass_funnel",
+    "create:andesite_tunnel",
+    "create:brass_tunnel",
+    "create:content_observer",
+    "create:stockpile_switch",
+    "create:filter",
+    "create:attribute_filter"
+  ]
