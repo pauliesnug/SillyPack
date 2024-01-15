@@ -91,6 +91,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.pw.toml"
 hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -131,6 +141,11 @@ hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
 metafile = true
@@ -143,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
