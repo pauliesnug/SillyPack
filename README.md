@@ -18,10 +18,10 @@ Install the Launcher if you haven't already
 
 ## Fast
 
-1. Add a new instance, select "Import from zip"
+1. Add a new instance, select "Import > Import from zip"
 
     Use the following URL in the direct download field or download and point to it manually.
 
     `https://github.com/pauliesnug/sillypack/releases/download/bootstrap/SillyPackBootstrap.zip`
 
-2. Launch the game and the mods will be automatically installed and updated every time you launch
+2. Launch the game and the mods will be automatically installed and updated every time you launch!
