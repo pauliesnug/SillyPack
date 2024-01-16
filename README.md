@@ -1,20 +1,26 @@
+# SillyPack
+
+## Credits
+
+- thanks to @kenziemac130 for the aawesome help with the guide and contributions
+
 ## Launcher Install
 
 Install the Launcher if you haven't already
 
 1. Install Prism Launcher (follow their install steps)
-    * [Prism](https://prismlauncher.org/)
+    - [Prism](https://prismlauncher.org/)
 
 2. Setup Java 17
-    * on first launch you will be prompted to locate your java executable
-    * you may need to install OpenJDK 17 and point to your "javaw" file manually [Java Version Archive](https://jdk.java.net/archive/)
-    * extract the zip somewhere safe and point to `jdk-17/bin/javaw.exe` (or whatever format your OS uses)
+    - on first launch you will be prompted to locate your java executable
+    - you may need to install OpenJDK 17 and point to your "javaw" file manually [Java Version Archive](https://jdk.java.net/archive/)
+    - extract the zip somewhere safe and point to `jdk-17/bin/javaw.exe` (or whatever format your OS uses)
 
 3. Login to your account
-    * for new accounts you will have to launch at least once with the official launcher for first time setup
-    * under the profiles dropdown on the top right of the screen choose "Manage Accounts" then "Add Microsoft"
-    * if you have not yet migrated your old mojang to microsoft account [please do](https://www.minecraft.net/en-us/login?view=mojang)
-    * complete the steps on the page as instructed
+    - for new accounts you will have to launch at least once with the official launcher for first time setup
+    - under the profiles dropdown on the top right of the screen choose "Manage Accounts" then "Add Microsoft"
+    - if you have not yet migrated your old mojang to microsoft account [please do](https://www.minecraft.net/en-us/login?view=mojang)
+    - complete the steps on the page as instructed
 
 ## Fast
 
