@@ -1,0 +1,11 @@
+[
+    "create:fluid_pipe",
+    "create:mechanical_pump",
+    "create:smart_fluid_pipe",
+    "create:fluid_valve",
+    "create:fluid_tank",
+    "create:hose_pulley",
+    "create:item_drain",
+    "create:spout",
+    "create:portable_fluid_interface"
+  ]

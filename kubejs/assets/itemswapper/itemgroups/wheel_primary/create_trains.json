@@ -1,0 +1,14 @@
+[
+    "create:track",
+    "create:railway_casing",
+    "create:track_station",
+    "create:track_signal",
+    "create:track_observer",
+    "create:controls",
+    "create:train_door",
+    "create:train_trapdoor",
+    "create:minecart_contraption",
+    "create:furnace_minecart_contraption",
+    "create:chest_minecart_contraption",
+    "create:schedule"
+  ]

@@ -1,0 +1,13 @@
+[
+    "create:windmill_bearing",
+    "create:water_wheel",
+    "createaddition:alternator",
+    "createaddition:electric_motor",
+    "create:steam_engine",
+    "create:encased_fan",
+    "create:hand_crank",
+    "create:empty_blaze_burner",
+    "create:blaze_burner",
+    "create:creative_motor",
+    "createaddition:creative_energy"
+  ]

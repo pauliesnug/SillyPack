@@ -1,6 +1,122 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "config/fwaystones/config.json5"
+hash = "f02aa83719c217c4e0b795823cee3b8b5383c0a4b9fb206aba0ee1ff320d3a79"
+
+[[files]]
+file = "config/iris.properties"
+hash = "e9552a26229903507a9c4a1690206a9e77a0c9e38cfdefaebfe5ceafd0b35a9d"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "4e044664c7c51c50816f760f3659338bd944115e8609ca13d8232d14d23e997a"
+
+[[files]]
+file = "config/smoothswapping.json"
+hash = "655a36e674d613ff008e833880a6902c2c13c85c84f838fdd3c3a2ce04bda12a"
+
+[[files]]
+file = "config/sounds.mods.config.json"
+hash = "9a5fc0f9bb4460fc3f08212f7d8a93f6d977d62a9224a1d50a84faaf53ed70d2"
+
+[[files]]
+file = "config/sounds.ui.config.json"
+hash = "f708f9d631e4fb83e903b4402fa4c9ce1d96ad0c535674929c1e1589a12f1759"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/list/buckets.json"
+hash = "9e0b73175244288cad01acf7f0da3fb6b8656598e29d03a7d58a69366537a087"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/list/explosives.json"
+hash = "77b0055742519d3fdd88e07a97d9210b769a5a52118bbf6c02a62501401a0323"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/list/food.json"
+hash = "9299c149fc7519df24394f81f97a0eda3e033654ebb6145205ba53fef506b301"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/list/misc_tools.json"
+hash = "2ea13f0d5481a590fdbe5c9768b0fa8590cecd5f4f9b43b9e63f892edff96b2a"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/list/tools.json"
+hash = "6a1929de57b842acae8a5d1bef3ba18c450824e6aa5afd0c04f567dfc94b8c70"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/list/weapons.json"
+hash = "437911bf3a2fefa7e456112bd0d003354dbcefaefa05d87438a5ffa5a0871cac"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_conveyor.json"
+hash = "dc50c73abd2bf3b428fcb80921e59ccc008240c676dc62e520c0d895b493844f"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_fluid.json"
+hash = "1b763e6c1a2a0b2bda0f051e49a88b608893d34fbb4829c28ff54f05749b611e"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_gears.json"
+hash = "631a2f9c31e27c620b4b52f2bc2cb676c5520bebb9bae129461eae924be14932"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_generator.json"
+hash = "545ecad6e02b3fc9fd323801f4737dab499ed343b2707e5a8d8160a362cf5dc1"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_mover.json"
+hash = "5fe0a354b71f7efa04a05658a96e83715b2cba08ca0fa836585b9a96e6df0a97"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_seats.json"
+hash = "318aee8c2385bd801d46a81b8eff12e341e7f6166cab263d1f0ef8b05f612b78"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_tasks.json"
+hash = "a45e9880668cf7cf56733f995cbd4e19612530c403e9846b5363c4aa70bc5f58"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_trains.json"
+hash = "83eb967ca5ea47b0ecb8dfa7b90c0ff7684fa0eef5279c02a17fb99e2af6785e"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_valves.json"
+hash = "c7ac7548135af19ec93b7f1568efcbd8057de502cd0a188c35815628dc4136bd"
+
+[[files]]
+file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.json"
+hash = "e8009a345a28bf86c19a586d5976ceda22557a4d4a7c944103648b569db45021"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "862aaf6aed16480b2579c7fcc49c66c5c4181c6e099d7dfba726ab9ede7ce2a6"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -106,13 +222,8 @@ hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
+file = "mods/itemswapper.pw.toml"
+hash = "81cd4292d023a2601532959101d42a0bd26c8b66519dde5cd21700102e7faac3"
 metafile = true
 
 [[files]]
@@ -128,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
 
 [[files]]
@@ -151,6 +267,16 @@ hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "051b1bee4a7fd8f2a55753fe95eda061e0f2a724c5b8ad38d2ca3619c88f2fae"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -163,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/reacharound.pw.toml"
+hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
 metafile = true
 
 [[files]]
@@ -181,8 +312,13 @@ hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+file = "mods/smooth-swapping.pw.toml"
+hash = "9f38461b4e2c233243c2149dd495f9992672cba45088557a29f93dc3b8cd12f4"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "b96aabe51f1e4d107607f0615986f9391457d5ab00384f4651eea5381bfc0331"
 metafile = true
 
 [[files]]

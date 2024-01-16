@@ -1,0 +1,17 @@
+[
+    "create:mechanical_press",
+    "create:mechanical_mixer",
+    "create:basin",
+    "create:millstone",
+    "create:crushing_wheel",
+    "create:cuckoo_clock",
+    "create:schematicannon",
+    "create:mechanical_arm",
+    "createaddition:rolling_mill",
+    "createaddition:accumulator",
+    "createaddition:tesla_coil",
+    "create:display_board",
+    "create:steam_whistle",
+    "create:display_link",
+    "create:nixie_tube"
+  ]
