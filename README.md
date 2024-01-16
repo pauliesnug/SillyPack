@@ -13,8 +13,7 @@ Install the Launcher if you haven't already
 
 2. Setup Java 17
     - on first launch you will be prompted to locate your java executable
-    - you may need to install OpenJDK 17 and point to your "javaw" file manually [Java Version Archive](https://jdk.java.net/archive/)
-    - extract the zip somewhere safe and point to `jdk-17/bin/javaw.exe` (or whatever format your OS uses)
+    - you will need Java 17 from [adoptium](https://adoptium.net/temurin/releases/?version=17) find your arch and os!
 
 3. Login to your account
     - for new accounts you will have to launch at least once with the official launcher for first time setup
