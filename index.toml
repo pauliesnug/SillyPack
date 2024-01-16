@@ -203,6 +203,11 @@ hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
 
 [[files]]
+file = "mods/gravestones-fix.pw.toml"
+hash = "4b350db5e3d33d62b190090a8f804f025b8792bc06467aaefa08c393d841287c"
+metafile = true
+
+[[files]]
 file = "mods/gravestones.pw.toml"
 hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
 metafile = true
