@@ -248,6 +248,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/log-ip-remover.pw.toml"
+hash = "1a1a71979f82e0b35e48c2d54803ea732341dc45a9494123154c7eac55075ff3"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true

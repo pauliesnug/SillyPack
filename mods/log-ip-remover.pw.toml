@@ -1,0 +1,13 @@
+name = "Log IP Remover"
+filename = "log-ip-remover-mc1.20.1-1.0.2+build.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IUTTpa4R/versions/ZI21B6mb/log-ip-remover-mc1.20.1-1.0.2%2Bbuild.11.jar"
+hash-format = "sha1"
+hash = "cc20b64553a551ce07739ed86ed90285734ce051"
+
+[update]
+[update.modrinth]
+mod-id = "IUTTpa4R"
+version = "ZI21B6mb"
