@@ -1,6 +1,6 @@
 name = "Chipped"
 filename = "chipped-fabric-1.20.1-3.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/BAscRYKm/versions/yXxHBIer/chipped-fabric-1.20.1-3.0.1.jar"

@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+hash = "8cc11cff25c84f71e3a9da6cfa5f8720be5cbe5215f82ff87a2e53d636da7494"
 metafile = true
 
 [[files]]
