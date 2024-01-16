@@ -5,6 +5,10 @@ file = "config/fwaystones/config.json5"
 hash = "f02aa83719c217c4e0b795823cee3b8b5383c0a4b9fb206aba0ee1ff320d3a79"
 
 [[files]]
+file = "config/gravestones.json"
+hash = "144330f8733f63fedc419353fd16b55a76d69a62a5ead6c5b20856108ce3cb09"
+
+[[files]]
 file = "config/iris.properties"
 hash = "e9552a26229903507a9c4a1690206a9e77a0c9e38cfdefaebfe5ceafd0b35a9d"
 
@@ -135,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "8cc11cff25c84f71e3a9da6cfa5f8720be5cbe5215f82ff87a2e53d636da7494"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
 
 [[files]]
