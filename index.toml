@@ -17,10 +17,6 @@ file = "config/smoothswapping.json"
 hash = "655a36e674d613ff008e833880a6902c2c13c85c84f838fdd3c3a2ce04bda12a"
 
 [[files]]
-file = "config/sounds.mods.config.json"
-hash = "9a5fc0f9bb4460fc3f08212f7d8a93f6d977d62a9224a1d50a84faaf53ed70d2"
-
-[[files]]
 file = "config/sounds.ui.config.json"
 hash = "f708f9d631e4fb83e903b4402fa4c9ce1d96ad0c535674929c1e1589a12f1759"
 
@@ -168,11 +164,6 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "cc8e6e730c92b194d1fc56c51809a62be7c1719f601a002ac32e6f6fae12dcec"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -243,11 +234,6 @@ hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "3e1a381807b8bfe1abb6be6b043b64d9426097bb4ea16c6aa956f6a151f5c72e"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "62fe935015220fde5fa84833905a0a7704821e7154f1ef733cb8a2beb8371304"
 metafile = true
@@ -315,6 +301,11 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "1bdc2b4d59ee6805bcd05fb4a68782c2a020270a7da21531b245fd03b5ba2426"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "23bd1bd72faedf4bb2d6acf2db2441544d2744cfb76f56b8c8165abc25cfeb59"
 metafile = true
 
 [[files]]
