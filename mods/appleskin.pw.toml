@@ -11,3 +11,8 @@ hash = "d0f11243f79c071416bbcee781ae93eb57a0283c"
 [update.modrinth]
 mod-id = "EsAfCjCV"
 version = "xcauwnEB"
+
+[option]
+optional = true
+default = true
+description = "See expanded hunger info such as saturation in the HUD"

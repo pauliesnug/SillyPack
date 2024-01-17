@@ -11,3 +11,8 @@ hash = "c1807ab4c6a9a7ea0e89ea1b59daf888a745664a"
 [update.modrinth]
 mod-id = "ZouiUX7t"
 version = "KoieAsFw"
+
+[option]
+optional = true
+default = true
+description = "Provide some basic UI sounds"
