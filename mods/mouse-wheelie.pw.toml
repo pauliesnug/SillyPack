@@ -11,3 +11,8 @@ hash = "799268adcb25eceab35ca7df96415186221771c9"
 [update.modrinth]
 mod-id = "u5Ic2U1u"
 version = "wPtDzPBH"
+
+[option]
+optional = true
+default = true
+description = "Use scroll wheel to quick stack and middle click to sort"

@@ -11,3 +11,8 @@ hash = "ca3d145c48936b3eab92f5ab9bf64befe5ed15ec"
 [update.modrinth]
 mod-id = "RPOSBQgq"
 version = "NEBVxulw"
+
+[option]
+optional = true
+default = true
+description = "Use the R key to bring up quick select item wheels (note: may need shader reload key rebind)"

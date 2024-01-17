@@ -11,3 +11,8 @@ hash = "0deaefc844f35113ed5db90d76b5bd0bd5a279df"
 [update.modrinth]
 mod-id = "ydZic5r4"
 version = "ZOPxSIii"
+
+[option]
+optional = true
+default = true
+description = "Item moving animations on chest transfers and quick stacks"
