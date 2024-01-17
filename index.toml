@@ -396,3 +396,8 @@ metafile = true
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
+metafile = true
