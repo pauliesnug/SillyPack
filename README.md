@@ -18,7 +18,6 @@ Install the Launcher if you haven't already
 3. Login to your account
     - for new accounts you will have to launch at least once with the official launcher for first time setup
     - under the profiles dropdown on the top right of the screen choose "Manage Accounts" then "Add Microsoft"
-    - if you have not yet migrated your old mojang to microsoft account [please do](https://www.minecraft.net/en-us/login?view=mojang)
     - complete the steps on the page as instructed
 
 ## Fast
