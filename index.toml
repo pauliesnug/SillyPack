@@ -113,6 +113,11 @@ file = "kubejs/startup_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
@@ -215,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
 metafile = true
 
 [[files]]
