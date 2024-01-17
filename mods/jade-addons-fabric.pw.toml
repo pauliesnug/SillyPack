@@ -11,3 +11,8 @@ hash = "3ce9c570f522711718221041607204a0affb2350"
 [update.modrinth]
 mod-id = "fThnVRli"
 version = "oSyOLHYj"
+
+[option]
+optional = true
+default = true
+description = "More features for jade (please have jade enabled if jade addons is enabled)"
