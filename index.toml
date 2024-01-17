@@ -208,6 +208,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
@@ -220,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/gravestones.pw.toml"
 hash = "ace9dbdca93d66c486a4474081fc91219640e506b62679bce01318c34af51e13"
+metafile = true
+
+[[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "6397162c78c64d7e9130223c3a4094ea680df41a4d12f11a2c7fbfb6a73da202"
 metafile = true
 
 [[files]]
@@ -249,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-fabric.pw.toml"
-hash = "f150264c0991c3faa578a2669ccfb3964850f6d759acc84dad0b545abd9c8915"
+hash = "8a658c051f89ffe246626c6405feea7b62bab42e4780f994864f898f38a4662f"
 metafile = true
 
 [[files]]
@@ -270,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/log-ip-remover.pw.toml"
 hash = "1a1a71979f82e0b35e48c2d54803ea732341dc45a9494123154c7eac55075ff3"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "8f8650f906d35b4c6d7fb0040ae55fcfcfe51788d991bde0ea8415b66acabf29"
 metafile = true
 
 [[files]]
@@ -360,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "744dad7997bff08cfd74dfc612d984455c86c6e4fe9351f316d115c6bb99e84b"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
 metafile = true
 
 [[files]]
