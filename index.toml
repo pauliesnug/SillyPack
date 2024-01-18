@@ -248,6 +248,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/individual-keep-inventory.pw.toml"
+hash = "f7f8e69b5930cfe0df4648eee9fefc2f5c94b3c911fb107d9eff59835d3dad4b"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
