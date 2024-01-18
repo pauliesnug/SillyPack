@@ -358,6 +358,11 @@ hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "842f27fb68572fa7482ef90f8d1ffed7d3ecc698af5184f65d89458c574694f7"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "0cff114a6675b084da449802c5b18b149450904a3362096a97a39643a21d9222"
 metafile = true
