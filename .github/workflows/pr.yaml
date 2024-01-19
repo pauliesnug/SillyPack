@@ -67,4 +67,4 @@ jobs:
               run: |
                 git add .
                 git commit -m "refresh and update files" || exit 0
-                git push origin HEAD:${{ github.ref_name }} || exit 0
+                git push origin HEAD:${{ github.base_ref }} || exit 0
