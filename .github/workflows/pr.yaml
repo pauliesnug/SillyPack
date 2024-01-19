@@ -48,7 +48,7 @@ jobs:
               run: go install github.com/packwiz/packwiz@latest
 
             - name: merge from main branch
-              run: git merge origin/main --strategy ours --allow-unrelated-histories
+              run: git merge origin/main --strategy ours --allow-unrelated-histories --no-ff --no-commit
 
             - name: regenerate hashes
               run: |
