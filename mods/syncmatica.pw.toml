@@ -1,0 +1,13 @@
+name = "Syncmatica"
+filename = "syncmatica-1.20.1-0.3.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bfneejKo/versions/JxB3gBzc/syncmatica-1.20.1-0.3.11.jar"
+hash-format = "sha1"
+hash = "ca7364db94e9dbf5c08f0ec95f7c38b5413932bf"
+
+[update]
+[update.modrinth]
+mod-id = "bfneejKo"
+version = "JxB3gBzc"

@@ -93,6 +93,10 @@ file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.jso
 hash = "e8009a345a28bf86c19a586d5976ceda22557a4d4a7c944103648b569db45021"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/computer_chip.png"
+hash = "4fd1442654bb372c9ae8e17207008bf19130188009e1c2eaec90ab440784adf8"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
@@ -105,8 +109,16 @@ file = "kubejs/config/common.properties"
 hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
 
 [[files]]
+file = "kubejs/server_scripts/computer_chip.js"
+hash = "15190a90f2cf46d15b9888b9f15c1d31916869e20a8b48d0cbb8abaca344e28d"
+
+[[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
+
+[[files]]
+file = "kubejs/startup_scripts/computer_chip.js"
+hash = "859616468f40d1173d7b45453f709a1c8a74a34b0e8c55fccae33a50bf4b11cf"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -140,6 +152,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "bcaceffce281382be8a9a6fe5215f79e3edf5b5968eac57bd62162172b4d7616"
+metafile = true
+
+[[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
 metafile = true
 
 [[files]]
@@ -400,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+metafile = true
+
+[[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "dcd13a0bd0f57a082ad983c3d285f0dafc4e9e4b6af9b1008e15c57428154d5a"
 metafile = true
 
 [[files]]
