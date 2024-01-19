@@ -9,6 +9,7 @@ permissions:
   pull-requests: write
   issues: write
   repository-projects: write
+  contents: write
 
 jobs:
     build:
@@ -59,4 +60,3 @@ jobs:
                 git commit -m "refresh and update files" || exit 0
                 git push || exit 0
 
-                
