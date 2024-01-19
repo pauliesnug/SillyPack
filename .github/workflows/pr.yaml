@@ -7,6 +7,11 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
+            - name: fetch main branch
+              uses: actions/checkout@v4
+              with:
+                ref: main
+
             - name: fetch repo
               uses: actions/checkout@v4
 
@@ -38,10 +43,7 @@ jobs:
               run: go install github.com/packwiz/packwiz@latest
 
             - name: merge from main branch
-              run: |
-                git checkout main
-                git checkout ${{ github.ref }}
-                git merge main --strategy ours
+              run: git merge main --strategy ours
 
             - name: regenerate hashes
               run: |
