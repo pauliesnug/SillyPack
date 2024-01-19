@@ -1,4 +1,10 @@
 // https://github.com/LordDeatHunter/FabricWaystones/wiki/Configuration
 {
-    
+    "teleportation_cost": {
+        "cost_type": "LEVEL",
+        "cost_item": "minecraft:ender_pearl"
+        "base_cost": 1,
+        "cost_per_block_distance": 0.0,
+        "cost_multiplier_between_dimensions": 1.5
+    }
 }

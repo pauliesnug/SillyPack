@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "f02aa83719c217c4e0b795823cee3b8b5383c0a4b9fb206aba0ee1ff320d3a79"
+hash = "0e9373456069882a44fbbd36e26a0bd66cf140dbe1d1cb152d3a6e0fe38463cd"
 
 [[files]]
 file = "config/iris.properties"
@@ -19,6 +19,14 @@ hash = "655a36e674d613ff008e833880a6902c2c13c85c84f838fdd3c3a2ce04bda12a"
 [[files]]
 file = "config/sounds.ui.config.json"
 hash = "f708f9d631e4fb83e903b4402fa4c9ce1d96ad0c535674929c1e1589a12f1759"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "30c97ce2102337909de3abf82c5608b669f041ef3382109de38354dbbc6cddde"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "f40908e78562b3dd464fff1391fee5ba680fe51fbff557f5cbf82e39e0a53d03"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -423,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "fb567e276e5ae628a1fa843b264dc01532c86942a69e5d2352be44a1be63674b"
 metafile = true
 
 [[files]]
