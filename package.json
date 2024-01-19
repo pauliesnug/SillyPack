@@ -1,0 +1,14 @@
+{
+	"name": "sillypack",
+	"type": "module",
+	"version": "1.0.0",
+	"scripts": {
+		"lint": "eslint .",
+		"format": "eslint . --fix",
+		"build": "node ./scripts/build.js"
+	},
+	"devDependencies": {
+		"@flowr/eslint-config": "2.1.1-alpha.21",
+		"eslint": "^8.56.0"
+	}
+}

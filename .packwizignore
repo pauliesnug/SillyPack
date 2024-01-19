@@ -3,3 +3,8 @@ CNAME
 LICENSE
 scripts/*
 .github/*
+package.json
+node_modules/*
+build/*
+eslint.config.js
+pnpm-lock.yaml

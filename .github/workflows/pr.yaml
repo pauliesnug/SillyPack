@@ -8,63 +8,63 @@ permissions:
   contents: write
 
 jobs:
-    merge:
-        name: Merge from latest and test
-        runs-on: ubuntu-latest
+  merge:
+    name: Merge from latest and test
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: fetch main branch
-              uses: actions/checkout@v4
-              with:
-                ref: main
+    steps:
+      - name: fetch main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
 
-            - name: fetch repo
-              uses: actions/checkout@v4
-              with:
-                ref: ${{ github.ref }}
+      - name: fetch repo
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
 
-            - name: setup git name and email
-              run: |
-                git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-                git config --global user.name 'github-actions[bot]'
+      - name: setup git name and email
+        run: |
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'github-actions[bot]'
 
-            - name: setup go environment
-              uses: actions/setup-go@v4
-              with:
-                go-version: "1.21"
-                cache: false
+      - name: setup go environment
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+          cache: false
 
-            - name: determine golang cache paths
-              id: golang-path
-              run: |
-                    echo "build=$(go env GOCACHE)" >>"$GITHUB_OUTPUT"
-                    echo "module=$(go env GOMODCACHE)" >>"$GITHUB_OUTPUT"
-              shell: bash
+      - name: determine golang cache paths
+        id: golang-path
+        run: |
+          echo "build=$(go env GOCACHE)" >>"$GITHUB_OUTPUT"
+          echo "module=$(go env GOMODCACHE)" >>"$GITHUB_OUTPUT"
+        shell: bash
 
-            - name: download packwiz cache
-              run: wget -nv https://github.com/packwiz/packwiz/raw/main/go.sum
-            
-            - name: setup golang cache
-              uses: actions/cache@v4
-              with:
-                path: |
-                  ${{ steps.golang-path.outputs.build }}
-                  ${{ steps.golang-path.outputs.module }}
-                key: packwiz-golang-${{ hashFiles('**/go.sum') }}
+      - name: download packwiz cache
+        run: wget -nv https://github.com/packwiz/packwiz/raw/main/go.sum
 
-            - name: install packwiz
-              run: go install github.com/packwiz/packwiz@latest
+      - name: setup golang cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ${{ steps.golang-path.outputs.build }}
+            ${{ steps.golang-path.outputs.module }}
+          key: packwiz-golang-${{ hashFiles('**/go.sum') }}
 
-            - name: merge from main branch
-              run: git merge origin/main --strategy ours --allow-unrelated-histories --no-ff --no-commit
+      - name: install packwiz
+        run: go install github.com/packwiz/packwiz@latest
 
-            - name: regenerate hashes
-              run: |
-                rm -rf ./go.sum
-                packwiz refresh
+      - name: merge from main branch
+        run: git merge origin/main --strategy ours --allow-unrelated-histories --no-ff --no-commit
 
-            - name: commit updates
-              run: |
-                git add .
-                git commit -m "refresh and update files" || exit 0
-                git push origin HEAD:${{ github.base_ref }} || exit 0
+      - name: regenerate hashes
+        run: |
+          rm -rf ./go.sum
+          packwiz refresh
+
+      - name: commit updates
+        run: |
+          git add .
+          git commit -m "refresh and update files" || exit 0
+          git push origin HEAD:${{ github.base_ref }} || exit 0

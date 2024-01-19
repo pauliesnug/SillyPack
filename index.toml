@@ -110,7 +110,11 @@ hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
 
 [[files]]
 file = "kubejs/server_scripts/computer_chip.js"
-hash = "15190a90f2cf46d15b9888b9f15c1d31916869e20a8b48d0cbb8abaca344e28d"
+hash = "6157f9c4472e6b8daf6f0cb53c323bc981b04af87ff8f77c2f0e9da7bfec4d85"
+
+[[files]]
+file = "kubejs/server_scripts/minecart.js"
+hash = "83d239424557c8e71dfb4ad511e6da249e58e133db7e6c31dac736ac38c1db5e"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -118,7 +122,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
-hash = "859616468f40d1173d7b45453f709a1c8a74a34b0e8c55fccae33a50bf4b11cf"
+hash = "0540bf1f58852cb36e31f5eb97cfb589b1e31053731ad223e58e6898e8fc564a"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
