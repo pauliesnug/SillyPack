@@ -38,7 +38,7 @@ jobs:
               run: go install github.com/packwiz/packwiz@latest
 
             - name: merge from main branch
-              run: git merge origin/main --strategy ours
+              run: git merge main --strategy ours
 
             - name: regenerate hashes
               run: |
