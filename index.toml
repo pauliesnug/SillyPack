@@ -22,7 +22,7 @@ hash = "f708f9d631e4fb83e903b4402fa4c9ce1d96ad0c535674929c1e1589a12f1759"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "30c97ce2102337909de3abf82c5608b669f041ef3382109de38354dbbc6cddde"
+hash = "f4c69845ef4fcbc6a4ae4347491d32f6eb494a0184457328533fca5aea9f3b87"
 
 [[files]]
 file = "config/universal-graves/config.json"
