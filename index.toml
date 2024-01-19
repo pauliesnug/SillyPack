@@ -25,6 +25,10 @@ file = "config/sounds.ui.config.json"
 hash = "f708f9d631e4fb83e903b4402fa4c9ce1d96ad0c535674929c1e1589a12f1759"
 
 [[files]]
+file = "config/timeoutout.json"
+hash = "79807bee3c13d10c42a7b6b561d5716e1c6c3300aa961d505ac0567ad4adf541"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
 
@@ -436,6 +440,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "79bf46f1892bfb23ff9a69b16d0f9147da33809021f0f2ef2f73ae7d10bbefec"
 metafile = true
 
 [[files]]
