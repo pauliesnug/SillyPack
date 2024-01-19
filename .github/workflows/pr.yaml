@@ -14,6 +14,8 @@ jobs:
 
             - name: fetch repo
               uses: actions/checkout@v4
+              with:
+                ref: ${{ github.ref }}
 
             - name: setup git name and email
               run: |
@@ -59,4 +61,4 @@ jobs:
               run: |
                 git add .
                 git commit -m "refresh and update files" || exit 0
-                git push || exit 0
+                git push origin HEAD:${{ github.ref }} || exit 0
