@@ -8,3 +8,4 @@ node_modules/*
 build/*
 eslint.config.js
 pnpm-lock.yaml
+.vscode/*

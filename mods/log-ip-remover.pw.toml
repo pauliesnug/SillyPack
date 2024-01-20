@@ -8,6 +8,7 @@ hash-format = "sha1"
 hash = "cc20b64553a551ce07739ed86ed90285734ce051"
 
 [update]
+
 [update.modrinth]
 mod-id = "IUTTpa4R"
 version = "ZI21B6mb"

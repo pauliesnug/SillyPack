@@ -1,0 +1,37 @@
+{
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/bower_components": true,
+		"**/*.code-search": true,
+		"**/pnpm-lock.yaml": true,
+		"**/.gitignore": true,
+		"/packages/ctjs/types/*": true,
+		"**/dist": true
+	},
+	"eslint.experimental.useFlatConfig": true,
+	"prettier.enable": false,
+	"editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": "explicit",
+		"source.organizeImports": "never"
+	},
+	"eslint.validate": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"vue",
+		"html",
+		"markdown",
+		"json",
+		"jsonc",
+		"yaml",
+		"astro",
+		"toml"
+	],
+	"css.customData": [
+		".vscode/tailwind.json"
+	],
+	"eslint.lintTask.enable": true,
+	"eslint.workingDirectories": []
+}

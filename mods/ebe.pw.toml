@@ -8,6 +8,7 @@ hash-format = "sha1"
 hash = "61cfe50f69f8ef9e3640c0269ef158870f5b0410"
 
 [update]
+
 [update.modrinth]
 mod-id = "OVuFYfre"
 version = "i3v1Skck"
