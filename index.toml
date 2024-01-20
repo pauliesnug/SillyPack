@@ -5,10 +5,6 @@ file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
 [[files]]
-file = "config/gravestones.json"
-hash = "525a5470c243effd1a680b865e7b3c893266770db232c13dfaf3534498169f76"
-
-[[files]]
 file = "config/iris.properties"
 hash = "e9552a26229903507a9c4a1690206a9e77a0c9e38cfdefaebfe5ceafd0b35a9d"
 
@@ -27,6 +23,10 @@ hash = "6aac3f72fc49533e742020558a96b00ba474e1a2765b43779121b7cec7e2489a"
 [[files]]
 file = "config/timeoutout.json"
 hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
+
+[[files]]
+file = "config/universal-graves/config.json"
+hash = "7bb6b2b53a904e2452f0b98bfbb2b77b7006741c15bd3b9e8a51dfee0d65d70c"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -253,16 +253,6 @@ hash = "109af9d68aeb998f5f6fa47241e6dd34f9d6fdfaf633c8683333df34aa1b596a"
 metafile = true
 
 [[files]]
-file = "mods/gravestones-fix.pw.toml"
-hash = "c660873c3cbc021a91f5477f660a1f845faf592bbb0c0f043c092839e31eb72c"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.pw.toml"
-hash = "1b73f4f45602ae69ff322b1168843d80bb73bbceb2051e6585eda69727aee045"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "343dc30328f66750b2d1911c64ea2c022b0b5c13736e2be8be917b0759c5fd71"
 metafile = true
@@ -455,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ab11927cd9e2079af34209947002a0f2bf3a2f4c8ec07abf7de73b4b4efee99a"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "fb567e276e5ae628a1fa843b264dc01532c86942a69e5d2352be44a1be63674b"
 metafile = true
 
 [[files]]
