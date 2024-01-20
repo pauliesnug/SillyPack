@@ -3,7 +3,7 @@
   "config_version": 3,
   "protection": {
     "non_owner_protection_time": 900,
-    "self_destruction_time": 1800,
+    "self_destruction_time": -1,
     "drop_items_on_expiration": true,
     "attackers_bypass_protection": false,
     "use_real_time": false
@@ -14,7 +14,7 @@
       "count": 0
     },
     "give_death_compass": true,
-    "enable_use_death_compass_to_open_gui": true,
+    "enable_use_death_compass_to_open_gui": false,
     "enable_click_to_open_gui": true,
     "shift_and_use_quick_pickup": true,
     "allow_remote_protection_removal": true,
@@ -23,7 +23,7 @@
   },
   "storage": {
     "experience_type": "percent_points",
-    "experience_percent:setting_value": 100.0,
+    "experience_percent:setting_value": 80.0,
     "can_store_only_xp": false,
     "alternative_experience_entity": false,
     "blocked_enchantments": []
@@ -35,7 +35,7 @@
     "shift_location_on_failure": true,
     "max_shift_tries": 5,
     "max_shift_distance": 40,
-    "generate_on_top_of_fluids": false,
+    "generate_on_top_of_fluids": true,
     "create_gravestone_after_emptying": false,
     "restore_replaced_block_after_player_breaking": true,
     "cancel_creation_for_damage_types": {},

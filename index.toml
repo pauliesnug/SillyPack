@@ -26,7 +26,7 @@ hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "7bb6b2b53a904e2452f0b98bfbb2b77b7006741c15bd3b9e8a51dfee0d65d70c"
+hash = "4c94be61971108ca625a351cee7bc3e3c919d5b1b4ffa172a77b6f92e0cac624"
 
 [[files]]
 file = "kubejs/README.txt"
