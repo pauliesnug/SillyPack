@@ -438,6 +438,11 @@ hash = "dcd13a0bd0f57a082ad983c3d285f0dafc4e9e4b6af9b1008e15c57428154d5a"
 metafile = true
 
 [[files]]
+file = "mods/textile_backup.pw.toml"
+hash = "faf566d493d95427c171fa3ef90bdc4e894e7ac4d5b772ed0b11b5f083273647"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
