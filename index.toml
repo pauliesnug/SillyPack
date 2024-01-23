@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bobby.conf"
+hash = "32a51f87b98c4bf0b5e2b996e14fa14c2ee4d6d04ad3b5a939ad00dd25c6649b"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
@@ -153,6 +157,11 @@ hash = "6938a873b5ebf20c3132546e789ff2f27da6776e2f661005e781f692868ac6d1"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "068de078ce50b4d13dcec6d12844a357f6eba01352e57df503285df9563d52d8"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "277184110723cb46c90a21a6aadebd62183ed1d878881bfcff094566e3416267"
 metafile = true
@@ -284,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "d79d79b5d969fc80c1409880440b30eb46c7ff655fa4989b0f57555220b45475"
+hash = "165c73ae8776595fd868c13edf6fb85a05f39bf2f9cc46cf836c3909c5f67d20"
 metafile = true
 
 [[files]]
@@ -303,6 +312,11 @@ hash = "17dd0f26b7ddfd80f1ecd827ff570088a11d12a590e8016f2a6e6304db584788"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "6a343541f8c8f6efdcdb29f6df87f0f51e1e43d25a03cbb0299200899e8824f8"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "548c56f04f1ec59d567a7bf7968951a5e0e53a0c66325d12fa5b8e60b4fa82c6"
 metafile = true
@@ -318,6 +332,11 @@ hash = "fe29a15ecb43d87c97671dd2f8c514a8ebf326893dde388e7e0de062a8a7b25b"
 metafile = true
 
 [[files]]
+file = "mods/malilib.pw.toml"
+hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases.pw.toml"
 hash = "57bb735e320eeec45faffb790fa42b3fa6bc440a9bd0db2463946351139e6252"
 metafile = true
@@ -325,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "baeed1706de0e9c09a31c25c24344b0b051420330cca6d2b1eadcb0197b3a1c2"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ee90f8d87175f65350d3d71746892059b51bf7e58e1c960366c4ccd236222ffe"
 metafile = true
 
 [[files]]
@@ -360,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "1de9178faac8fd1593d9ed8bfbbcf74338566f6d6c7020266624989fcfcf077c"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f59d74f1cf6a47f3577773273191bb560e56226aed21022198b98f3b0770e384"
 metafile = true
 
 [[files]]
