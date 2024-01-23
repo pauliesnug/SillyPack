@@ -21,12 +21,16 @@ file = "config/sounds.ui.config.json"
 hash = "6aac3f72fc49533e742020558a96b00ba474e1a2765b43779121b7cec7e2489a"
 
 [[files]]
+file = "config/styled-nicknames.json"
+hash = "2ae0424679282a08059a7498c8843d95e99a6db53beb16a32130a902e6d8df18"
+
+[[files]]
 file = "config/timeoutout.json"
 hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "4c94be61971108ca625a351cee7bc3e3c919d5b1b4ffa172a77b6f92e0cac624"
+hash = "4c5276ee0fb6d3aaef83406b5b73dfdcb291959edf3f82c4a8ba2e989daa0c54"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -198,6 +202,11 @@ hash = "50f83620ce68b40f152afaa431e28fbab5993b3af4d66839a082f92dfe7adfcb"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "e0bd919e1de97e4da82e980cf03d90460d5699fb820483de48afe256c145ad35"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "59c126c23f79a42080b61334db4c2ccd17b5543a691be5c6970e6a859025dbf4"
 metafile = true
@@ -208,6 +217,11 @@ hash = "16f1e9af761ceb17c8835c3b032d4337c60862709e27bd463901cff0aeb0e80e"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "36a96fbc964cac8b94074c8d2880f004eb3b01e9525f6cbb4635b1169c5103f1"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "2293302c8617c5226e20f9d6354ee93e90c9254ab70fe4035e00d7d03bfac707"
 metafile = true
@@ -215,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d2882cba9089e7f949af2bacc7ff4c2630f2e2fd8272c4ddfd61d94924a52a3f"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "16ba22642af2c6b5e51f5ede26507436d522c2389c6945d6e5d3563bd6fe26cf"
 metafile = true
 
 [[files]]
@@ -245,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3d937955622404d446aa06eb3cb7393090a8b06e486f65cf2a98a817e3a41e11"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "2888572281820401e214561ae4f77c911430170704e344da901bfa8317e53bf9"
 metafile = true
 
 [[files]]
@@ -325,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "baeed1706de0e9c09a31c25c24344b0b051420330cca6d2b1eadcb0197b3a1c2"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail-fabric.pw.toml"
+hash = "3328115fa54c017c856917609c15e3eac99b297ebe26e4a1ea0591a118b2e22f"
 metafile = true
 
 [[files]]
@@ -429,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/textile_backup.pw.toml"
-hash = "faf566d493d95427c171fa3ef90bdc4e894e7ac4d5b772ed0b11b5f083273647"
+hash = "4dde4197c50cd04d1675de3478996b1515d44662080d505112628a5cfbde9ab7"
 metafile = true
 
 [[files]]
@@ -449,10 +478,15 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "fb567e276e5ae628a1fa843b264dc01532c86942a69e5d2352be44a1be63674b"
+hash = "02b5a5ebe162c2a0b2b61a9fe2ba8b42e25b431b94ca4e196342c995a6ac7659"
 metafile = true
 
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "4563ccf28f7b3bdc891bc9cd2b85294e0339a8c0f1b0a4388f74adb105813920"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "d561a943083b2f61b656f6bd99437679c62ee60932f90d346d9df36592249a2c"
 metafile = true
