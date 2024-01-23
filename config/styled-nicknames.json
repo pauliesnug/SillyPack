@@ -1,0 +1,11 @@
+{
+	"CONFIG_VERSION_DONT_TOUCH_THIS": 1,
+	"allowByDefault": true,
+	"defaultPrefix": "#",
+	"maxLength": 32,
+	"changeDisplayName": true,
+	"changePlayerListName": false,
+	"allowLegacyFormatting": false,
+	"defaultEnabledFormatting": {
+	}
+}

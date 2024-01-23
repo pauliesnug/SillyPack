@@ -21,6 +21,10 @@ file = "config/sounds.ui.config.json"
 hash = "6aac3f72fc49533e742020558a96b00ba474e1a2765b43779121b7cec7e2489a"
 
 [[files]]
+file = "config/styled-nicknames.json"
+hash = "063d0f5b654708b67d6c7104c0c2bb9f79c7c85d736a4710441c48bf2d1572e4"
+
+[[files]]
 file = "config/timeoutout.json"
 hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
 
@@ -198,6 +202,11 @@ hash = "50f83620ce68b40f152afaa431e28fbab5993b3af4d66839a082f92dfe7adfcb"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry-fabric.pw.toml"
+hash = "867a8ce1e5993887a1420761a63cd74ff6fca108695a3eb450346f819f080dd8"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "59c126c23f79a42080b61334db4c2ccd17b5543a691be5c6970e6a859025dbf4"
 metafile = true
@@ -205,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "16f1e9af761ceb17c8835c3b032d4337c60862709e27bd463901cff0aeb0e80e"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
@@ -245,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3d937955622404d446aa06eb3cb7393090a8b06e486f65cf2a98a817e3a41e11"
+metafile = true
+
+[[files]]
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
@@ -325,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "baeed1706de0e9c09a31c25c24344b0b051420330cca6d2b1eadcb0197b3a1c2"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail-fabric.pw.toml"
+hash = "18c7110cb1d34a11dac668177e06687f94c2ddef4fb2500a6ef0e7aae98eb6dd"
 metafile = true
 
 [[files]]
