@@ -5,6 +5,10 @@ file = "config/bobby.conf"
 hash = "32a51f87b98c4bf0b5e2b996e14fa14c2ee4d6d04ad3b5a939ad00dd25c6649b"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "7849b2952a69e67303d1afeef3a5504f3bf6ee008ebce28248b1af7d3a33750b"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
