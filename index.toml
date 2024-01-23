@@ -161,6 +161,11 @@ hash = "6938a873b5ebf20c3132546e789ff2f27da6776e2f661005e781f692868ac6d1"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "068de078ce50b4d13dcec6d12844a357f6eba01352e57df503285df9563d52d8"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "36a96fbc964cac8b94074c8d2880f004eb3b01e9525f6cbb4635b1169c5103f1"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
