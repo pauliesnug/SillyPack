@@ -8,6 +8,7 @@ hash = "eedcba04abc236da3ee8bdb363d35cd0bf5ca189"
 mode = "metadata:curseforge"
 
 [update]
+
 [update.curseforge]
 file-id = 4718252
 project-id = 667391

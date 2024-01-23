@@ -232,6 +232,11 @@ hash = "d2882cba9089e7f949af2bacc7ff4c2630f2e2fd8272c4ddfd61d94924a52a3f"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "afe4a2446679827ede0d3a0a3ebc5004bffd98142642a65b8e72ee6163334bd5"
+metafile = true
+
+[[files]]
 file = "mods/extended-drawers.pw.toml"
 hash = "045ba6424e9cc0a572f841fd36f7cb76651bcd72edbe0d682f612a25dc350f44"
 metafile = true
@@ -479,4 +484,9 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "4563ccf28f7b3bdc891bc9cd2b85294e0339a8c0f1b0a4388f74adb105813920"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fade244d31c2deeb9ea1b3f698e56595b894f3ea7df3734463ee627d31860d79"
 metafile = true
