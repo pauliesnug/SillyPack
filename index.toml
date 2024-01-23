@@ -245,6 +245,11 @@ hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "720dfd8e417ea5262c05f3d58f936a1940a88d15582ae4adf8703b7b1dda755b"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "2293302c8617c5226e20f9d6354ee93e90c9254ab70fe4035e00d7d03bfac707"
 metafile = true
@@ -462,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "385a545e40fc880fa9d39e07cc05b8b9efb25b1486ed07b135965f132d9343ae"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "a6b579c605a1a6e557ba8e4db3d1e14ed9dd2a482b2dfd1e11d43948729adc46"
 metafile = true
 
 [[files]]
