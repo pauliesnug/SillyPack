@@ -22,7 +22,7 @@ hash = "6aac3f72fc49533e742020558a96b00ba474e1a2765b43779121b7cec7e2489a"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "063d0f5b654708b67d6c7104c0c2bb9f79c7c85d736a4710441c48bf2d1572e4"
+hash = "2ae0424679282a08059a7498c8843d95e99a6db53beb16a32130a902e6d8df18"
 
 [[files]]
 file = "config/timeoutout.json"
