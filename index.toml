@@ -166,12 +166,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+hash = "ac1d61be47d7db220294764cd4d98e9704b3357ef95adce4c4ea1990b51e8771"
 metafile = true
 
 [[files]]
 file = "mods/bobby.pw.toml"
-hash = "068de078ce50b4d13dcec6d12844a357f6eba01352e57df503285df9563d52d8"
+hash = "8913f5168902d8e04e2d3f84736cbbea20f84d204db89ea88ef7c96a950a9505"
 metafile = true
 
 [[files]]
@@ -241,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+hash = "6f060b8105db55cde49b08ddacc67971477a0544c93c363d0cd631d95cd65dde"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "720dfd8e417ea5262c05f3d58f936a1940a88d15582ae4adf8703b7b1dda755b"
+hash = "fab8b1c7a0dc893757f84d978bc4edfd54ffed8b744c2f361d44c050c5173d8b"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "6a343541f8c8f6efdcdb29f6df87f0f51e1e43d25a03cbb0299200899e8824f8"
+hash = "ea21e37843db1efe11e577bae548f3c368473e73a4a304d91f01d4d157fabd06"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
+hash = "67681c3ed65204913589978125582d7b146da717014aa28f5eef42e187fa99e5"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "ee90f8d87175f65350d3d71746892059b51bf7e58e1c960366c4ccd236222ffe"
+hash = "af4d8b79b9c54b3109158803ea44eea671bdfd018e158d86cee804180651e0dd"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
+hash = "327839ffaf6df68f41f9bb25a462b546aa3565907b3556b861a9f21363eeefd9"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "f59d74f1cf6a47f3577773273191bb560e56226aed21022198b98f3b0770e384"
+hash = "95d352ef8c1c63c301ee6f6d7f6a31f20ccaf620417f821f7295276de71f94e2"
 metafile = true
 
 [[files]]
@@ -471,12 +471,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a6b579c605a1a6e557ba8e4db3d1e14ed9dd2a482b2dfd1e11d43948729adc46"
+hash = "6bd910a18e4d03580b5586e2e42ff190824c397f968d949e5c3cc2fd83183080"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "77b50919fd28afbec69d78e1881b9233274e016e2db50a5a3e5139d5accb7d42"
+hash = "e4bc17e07c0ee661ca662ece5afbb6c293c3bb49b6c349d308605df88348995e"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "e47ff6709cd15575b06de59e27624fdd68a614a157e9524dac9a6081e25d1828"
+hash = "820648f9b34fa6db0a70a6c87116265d33c90c86e98b6f3734a68aaa6c49466c"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
+hash = "8c2b971dbe7bd4763c8904f468b3d959a675ce25d78b0f91450f03228a91ebc2"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/trash-cans.pw.toml"
-hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+hash = "47fe2c1dd998971b3d0ef65ae27c6ef54e2a0565285b4222f0620d2e4a587b35"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
+hash = "1bc58532964aa6d93ff8a1bdf7e7258b6ad68a9bf28b7173e0e2decb4dff2c95"
 metafile = true
 
 [[files]]
