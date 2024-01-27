@@ -1,19 +1,19 @@
 name = "Sounds"
-filename = "Sounds-0.4.0+1.20.1.jar"
+filename = "Sounds-0.5.0+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/KoieAsFw/Sounds-0.4.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/5i96sTZN/Sounds-0.5.0%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "c1807ab4c6a9a7ea0e89ea1b59daf888a745664a"
+hash = "5cec6036ed1c41e777b74576d165052fd204ef3c"
 
 [update]
 
 [update.modrinth]
 mod-id = "ZouiUX7t"
-version = "KoieAsFw"
+version = "5i96sTZN"
 
 [option]
 optional = true
-default = true
 description = "Provide some basic UI sounds"
+default = true

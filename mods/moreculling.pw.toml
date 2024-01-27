@@ -1,14 +1,14 @@
 name = "More Culling"
-filename = "moreculling-1.20.4-0.21.0.jar"
+filename = "moreculling-1.20.4-0.22.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/51shyZVL/versions/jv96n9er/moreculling-1.20.4-0.21.0.jar"
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar"
 hash-format = "sha1"
-hash = "8d0dbf74e8500fd4279b5b0be11ee898208ce07a"
+hash = "2b373ab4657fa06682957fbe5bd15f14381e4353"
 
 [update]
 
 [update.modrinth]
 mod-id = "51shyZVL"
-version = "jv96n9er"
+version = "KpriJ15b"

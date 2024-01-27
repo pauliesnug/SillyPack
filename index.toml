@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "caa2889ebdc18f2963796b3ee67cc051970b1fb26160ef8ffdadd86747f11bcb"
+hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "3abad432a2fe55b3a2fae03816317e3ada11ab0d54ed0eef8418d43ecc553dd1"
+hash = "77b50919fd28afbec69d78e1881b9233274e016e2db50a5a3e5139d5accb7d42"
 metafile = true
 
 [[files]]
@@ -496,12 +496,17 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "9c081c1a836d5d31c885c67bd0288310befb3b15b9fbf0337b85e452236d8574"
+hash = "e47ff6709cd15575b06de59e27624fdd68a614a157e9524dac9a6081e25d1828"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "0771d0fdff0167314ec51dde072ec0a93e50c11752bb4a3f877aab4195fdf7c2"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
 metafile = true
 
 [[files]]
@@ -525,13 +530,18 @@ hash = "7a797ee3221d3cd8b8d8be5ca409cadd6a4e8216438a8908b1e275d672833b2f"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ab11927cd9e2079af34209947002a0f2bf3a2f4c8ec07abf7de73b4b4efee99a"
 metafile = true
 
 [[files]]
 file = "mods/universal-graves.pw.toml"
-hash = "02b5a5ebe162c2a0b2b61a9fe2ba8b42e25b431b94ca4e196342c995a6ac7659"
+hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
 metafile = true
 
 [[files]]
