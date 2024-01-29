@@ -1,0 +1,22 @@
+#!/usr/bin/env zsh
+
+if [ -z `tmux ls | grep craft` ]; then
+    echo `date` "[ERROR] tmux session 'craft' not found"
+    exit 1
+fi	
+
+session=craft
+window=${session}:0
+pane=${window}.0
+
+echo `date` "[INFO] Attempting to send messages and a killcode to tmux session 'craft'"
+
+tmux send-keys -t "${pane}" '/say §dHi! The server will automatically restart for maintenance in §f5 minutes' Enter
+sleep 2
+tmux send-keys -t "${pane}" '/say §dPlease wrap up anything critical. It is unlikely you need to restart your client.' Enter
+sleep 238
+tmux send-keys -t "${pane}" '/say §dServer is restarting for maintenance in §f1 minute§d!' Enter
+sleep 50
+echo `date` "[INFO] Restarting"
+tmux send-keys -t "${pane}" '/say §cRestarting' Enter
+tmux send-keys -t "${pane}" '/stop' Enter

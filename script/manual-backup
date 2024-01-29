@@ -1,0 +1,4 @@
+#!/usr/bin/env zsh
+
+cd /Users/kees/Workstation/Minecraft
+zip -r server-backup.zip server -x "server/backup/*"

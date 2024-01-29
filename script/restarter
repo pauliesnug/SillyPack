@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+runs=0
+
+while true
+do
+
+  java \
+    -jar packwiz-installer-bootstrap.jar \
+    -g -s server https://gh.dyn.gay/pack.toml
+
+  java -Xmx12G -Xms1G \
+    -jar fabric-server-mc.1.20.1-loader.0.15.5-launcher.1.0.0.jar
+
+  runs=$((runs+1))
+  echo "Restarting in 10 seconds, ctrl^c to cancel."
+  sleep 10
+done
+
+echo '[DEBUG] Successful restart times: ' $runs
