@@ -9,3 +9,4 @@ build/*
 eslint.config.js
 pnpm-lock.yaml
 .vscode/*
+include/*
