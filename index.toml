@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "31ed135568bf30d44cdebe10065718162f5e4db53a5b2fe9c09fa34b5e606c7c"
+hash = "b7f9cb83758b7d9d487f387295e71eb9939d39217745b5c6adac48fee8fb8369"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "17dd0f26b7ddfd80f1ecd827ff570088a11d12a590e8016f2a6e6304db584788"
+hash = "bc984870dbad22868c2e38b21fbe516a7e2e8d88bc519944ff049d83d6ad0359"
 metafile = true
 
 [[files]]
