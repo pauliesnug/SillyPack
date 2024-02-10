@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
+hash = "52f857d4d493de3f9c95258269268e55f0dd5e201f7f58fcd0637b90815128a9"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1561915fee2eaede14d888ad15af91e57cce9416cb8a508f3139abf1b118562b"
+hash = "7aaa8842b23cda2a86886d010989c851f7e8e36a25dc3b012050c641a2e55b7a"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
+hash = "f0f6fc2400c76c472c86a62bce438d8f92d4dc081bb5f314f6b25c206fd0ade1"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "875d4d58186abd9c984b3084e1444fd051b58c36acd5d8a00b6bc54315d28750"
+hash = "4c48d3b9d18a03e2d14ebe4f12a7c1048b9b7cbbe9b09f0cbf7132fdc958887f"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "de3093b494872aaa255685642d7cb9829ecec6e894811762506ce9c7bff66ace"
+hash = "ec178bfa73687fe31a6fbc24b6fdbabf4701c733b9e8dbeb837b0efb010c8443"
 metafile = true
 
 [[files]]
@@ -459,6 +459,11 @@ hash = "fb69980ffe21d2cc24b8d0359275a050333e9fa5ec9b00c16dfdb23ad9e2cd0f"
 metafile = true
 
 [[files]]
+file = "mods/probejs.pw.toml"
+hash = "efa262a087280f0b60873c10d5d82ead3bb4c22bbf685f7c1be3fed6e53e9f49"
+metafile = true
+
+[[files]]
 file = "mods/reacharound.pw.toml"
 hash = "2fa3ae737139810017edfed3c1b09b8004ef3a49dbd9801186e7aeb62aabd2f1"
 metafile = true
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
+hash = "462dd81b6b1928bae07ee8c01fc8d0496285ad80f370565145722b087f7cca46"
 metafile = true
 
 [[files]]
@@ -490,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "77c25541f7215ae1456e52b23dd0305a2efa356863841a247b3bcd747781199c"
+hash = "92aa4d3aa3ec76336d01ee22e9be70776238b733666962b33fddc733929d5d76"
 metafile = true
 
 [[files]]
