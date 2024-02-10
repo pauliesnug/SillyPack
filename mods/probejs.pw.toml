@@ -1,0 +1,19 @@
+name = "ProbeJS"
+filename = "probejs-5.9.3-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "813a6c78f99be5678786b9d91518ad8e895675bf"
+mode = "metadata:curseforge"
+
+[update]
+
+[update.curseforge]
+file-id = 5054322
+project-id = 585406
+
+[option]
+optional = true
+default = false
+description = "Enable ProbeJS for development purposes"
