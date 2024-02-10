@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c57d25af445be615d5dc7b08be76993f658997f47d555ad26a29c8f050d7153b"
+hash = "9b9cba3fa724134f59e95816e95b980fe9bc6f30798351f9b0628d463fecda3b"
 metafile = true
 
 [[files]]
@@ -180,17 +180,17 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "811ce15dabc2e675f7a10c13ac0409f29bc29c72f360453af751883bba28865d"
+hash = "9aa13c42840fd8f738b15c1bf4268ff6d7cc5597448fab1b8a370504cfe3980e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c576c40cdbd6451b684902f6aec9be49b3a25329268fc5cb7e7befe8b0d9494e"
+hash = "1561915fee2eaede14d888ad15af91e57cce9416cb8a508f3139abf1b118562b"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "a79a9d6a5fe9c86a51e1235932dfe6251a1e9936a4bc36dda8bb7ebd377cb059"
+hash = "f2d930b8fd2e02e5f46df2b0b406598945795ca6d3e7acaac24f3016eeac968e"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
+hash = "14f58b917d0b4385c287f40647fc5e29eb79d6dd16babe53b3ed1c83f4397665"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "ae3c8677a574757a519780f8c4f461763ebc19c590a42f3af0f9447bf7ef4a94"
+hash = "481ccfad4ea75749c28cb466aafafc170f57be4ddc9c97154fb1451a9ca1db61"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "246738f5a6bb9726299202fbe7a639ca214cf704e3ea6ca20414b9600c0a7412"
+hash = "ab4e5eeaf501de9a7a67fc92c87ed0f65daf854eb72273260fe31f10a0e2cf7b"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c57dc80d313576bb598f168b5a52edc2ea21f9939288824aabedd8e238ad4ca"
+hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "c7e55cb013917aba16d88ad9d19d5430602b80c18fc9bc1744e8a8de0b8a4f1c"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "b4ca763ce00c58b962c61046ba1663d2a7c86feaef095baf1a0fef274d15c76f"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a52e7b7897b5f1000fbbb1c4fb72eb0691de2672324492a55c115b99496c1fec"
+hash = "875d4d58186abd9c984b3084e1444fd051b58c36acd5d8a00b6bc54315d28750"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "bc984870dbad22868c2e38b21fbe516a7e2e8d88bc519944ff049d83d6ad0359"
+hash = "de3093b494872aaa255685642d7cb9829ecec6e894811762506ce9c7bff66ace"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
+hash = "99f845b6b37ce93114632949525dc3f8f824a7dccf509cbd64f967a9e989d6b8"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "c991ec875d94dcd051493ae761540100c4140326c0c93d89c53b18ea08feb9ae"
+hash = "30ca74e8ad6bedc4d12fb3611bda27aa1e95812f533b4aeb2609504e154a585a"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "3163806caf563483abac5d57071fd53fdf6e2c2206cde2aac152e8688e480a37"
+hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
@@ -490,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a3c077652af9776188ba1f5898c454a27f33d3515c1014adf424f84919280caf"
+hash = "77c25541f7215ae1456e52b23dd0305a2efa356863841a247b3bcd747781199c"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+hash = "9e4e05853bc5636ecbc0a0c64b1c1037143e5a246067c4002b227e471a726783"
 metafile = true
 
 [[files]]
