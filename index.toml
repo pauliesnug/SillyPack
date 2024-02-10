@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "030b5adce4dd6f31635992d8eebe27b2bae86b14fba1469ad19e1cae473c59df"
+hash = "14f58b917d0b4385c287f40647fc5e29eb79d6dd16babe53b3ed1c83f4397665"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "9d9819273bee47c7bc17cf159a1161a079f9d44c2bf314f4fbb232fc44b4fb34"
 metafile = true
 
 [[files]]
