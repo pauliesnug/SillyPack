@@ -113,6 +113,30 @@ file = "kubejs/assets/kubejs/textures/item/computer_chip.png"
 hash = "4fd1442654bb372c9ae8e17207008bf19130188009e1c2eaec90ab440784adf8"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "74dd6a8230271426a82098ff711f270b2d3445153565049bb4bdf1cefdf4af72"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "7e558ae04aa529455772fc56c50ac48cd8a16194eafb1d213d9e82fc91a9339d"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "3af5f7d6d1072d2d78e3ec66123df5362ee9f00afec74dbe37f4cd32c529a523"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "90941c836f3b5cb0b55922710ba3bc779b7f04bc24662689962379d0b48530ef"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "615f78381804f0b29b18a9fc677e72572db84b5afa12ae2ae58562827f63c9ba"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "34ec120ea0043a6fcbc21d008ee82982107d24e7f8a2ad3f515b31bcacceffe6"
+
+[[files]]
 file = "kubejs/client_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
