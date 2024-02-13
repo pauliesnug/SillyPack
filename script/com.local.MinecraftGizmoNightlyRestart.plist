@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+
+    <key>Label</key>
+    <string>com.local.MinecraftGizmoNightlyRestart</string>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>23</integer>
+        <key>Minute</key>
+        <integer>55</integer>
+    </dict>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/kees/Workstation/log/stderr.log</string>
+
+    <key>StandardOutPath</key>
+    <string>/Users/kees/Workstation/log/stdout.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/kees/Workstation/Minecraft/server</string>
+
+    <key>ProgramArguments</key>
+    <array>
+      <string>/Users/kees/Workstation/Minecraft/server/maintenance-restart</string>
+    </array>
+
+  </dict>
+</plist>

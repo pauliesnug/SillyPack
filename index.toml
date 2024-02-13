@@ -30,7 +30,7 @@ hash = "6aac3f72fc49533e742020558a96b00ba474e1a2765b43779121b7cec7e2489a"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "2ae0424679282a08059a7498c8843d95e99a6db53beb16a32130a902e6d8df18"
+hash = "fb04f0502cc418c19e745d3fef081c2315535ec1f034c129852a448340b0f466"
 
 [[files]]
 file = "config/timeoutout.json"
@@ -129,6 +129,10 @@ file = "kubejs/server_scripts/computer_chip.js"
 hash = "6157f9c4472e6b8daf6f0cb53c323bc981b04af87ff8f77c2f0e9da7bfec4d85"
 
 [[files]]
+file = "kubejs/server_scripts/create_casing.js"
+hash = "709a8b944b013fa05d8599cfc92fa82858d7e6ff6eb83494fb61099d18742420"
+
+[[files]]
 file = "kubejs/server_scripts/minecart.js"
 hash = "83d239424557c8e71dfb4ad511e6da249e58e133db7e6c31dac736ac38c1db5e"
 
@@ -151,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c57d25af445be615d5dc7b08be76993f658997f47d555ad26a29c8f050d7153b"
+hash = "52f857d4d493de3f9c95258269268e55f0dd5e201f7f58fcd0637b90815128a9"
 metafile = true
 
 [[files]]
@@ -176,17 +180,17 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "277184110723cb46c90a21a6aadebd62183ed1d878881bfcff094566e3416267"
+hash = "9aa13c42840fd8f738b15c1bf4268ff6d7cc5597448fab1b8a370504cfe3980e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8138d75fc17f4f1b2c5e1ebf733b65b07a3f583be5444a192f917c244948a64a"
+hash = "7aaa8842b23cda2a86886d010989c851f7e8e36a25dc3b012050c641a2e55b7a"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "31ed135568bf30d44cdebe10065718162f5e4db53a5b2fe9c09fa34b5e606c7c"
+hash = "f2d930b8fd2e02e5f46df2b0b406598945795ca6d3e7acaac24f3016eeac968e"
 metafile = true
 
 [[files]]
@@ -196,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "24f1faa8bf6d29d4bc1fbeb44af3a116ec838168114be4ba5008e660c55202cd"
+hash = "14f58b917d0b4385c287f40647fc5e29eb79d6dd16babe53b3ed1c83f4397665"
 metafile = true
 
 [[files]]
@@ -211,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "5700ea7372ab88855c06d316d85b7ef0c9f1174f1d33310660aabae2392fe748"
+hash = "481ccfad4ea75749c28cb466aafafc170f57be4ddc9c97154fb1451a9ca1db61"
 metafile = true
 
 [[files]]
@@ -231,12 +235,17 @@ metafile = true
 
 [[files]]
 file = "mods/create-new-age.pw.toml"
-hash = "16f1e9af761ceb17c8835c3b032d4337c60862709e27bd463901cff0aeb0e80e"
+hash = "ab4e5eeaf501de9a7a67fc92c87ed0f65daf854eb72273260fe31f10a0e2cf7b"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "36a96fbc964cac8b94074c8d2880f004eb3b01e9525f6cbb4635b1169c5103f1"
+metafile = true
+
+[[files]]
+file = "mods/createfabricreibugfix.pw.toml"
+hash = "3946fff669343151e9f8a7a1000f741037d2552cb6ca93c26b9fed86b1fba90d"
 metafile = true
 
 [[files]]
@@ -256,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/emojiful.pw.toml"
-hash = "46004f52bf80f43e49b2f5b72e925a17a1cdf45f6f18b03a0faaef422d04396f"
+hash = "839eb2703122aea0bb74cb4f4336eb91248a53a97fa15dfd6a0d96f88d776d23"
 metafile = true
 
 [[files]]
@@ -276,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c57dc80d313576bb598f168b5a52edc2ea21f9939288824aabedd8e238ad4ca"
+hash = "f0f6fc2400c76c472c86a62bce438d8f92d4dc081bb5f314f6b25c206fd0ade1"
 metafile = true
 
 [[files]]
@@ -316,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3b0435e243af33d42e52cc6585b1a6ea4f493dbaf3cca54c8358c783256ade52"
+hash = "c7e55cb013917aba16d88ad9d19d5430602b80c18fc9bc1744e8a8de0b8a4f1c"
 metafile = true
 
 [[files]]
@@ -326,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "5a30e1b7bce86427d6c6631abf5ad98332971ce55fb9fda84f25450ce809054e"
+hash = "b4ca763ce00c58b962c61046ba1663d2a7c86feaef095baf1a0fef274d15c76f"
 metafile = true
 
 [[files]]
@@ -336,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "75bb64e5f7c4646cb17c5b643fb463500ffd9625cec1427e931b71f865b80db7"
+hash = "9d9819273bee47c7bc17cf159a1161a079f9d44c2bf314f4fbb232fc44b4fb34"
 metafile = true
 
 [[files]]
@@ -356,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "17dd0f26b7ddfd80f1ecd827ff570088a11d12a590e8016f2a6e6304db584788"
+hash = "ec178bfa73687fe31a6fbc24b6fdbabf4701c733b9e8dbeb837b0efb010c8443"
 metafile = true
 
 [[files]]
@@ -406,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ff0ed1cd723ea8201238efa655ce6c4033e882039f452b0a823e2fef4f04cd6b"
+hash = "99f845b6b37ce93114632949525dc3f8f824a7dccf509cbd64f967a9e989d6b8"
 metafile = true
 
 [[files]]
@@ -441,12 +450,17 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "95d352ef8c1c63c301ee6f6d7f6a31f20ccaf620417f821f7295276de71f94e2"
+hash = "30ca74e8ad6bedc4d12fb3611bda27aa1e95812f533b4aeb2609504e154a585a"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "fb69980ffe21d2cc24b8d0359275a050333e9fa5ec9b00c16dfdb23ad9e2cd0f"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "efa262a087280f0b60873c10d5d82ead3bb4c22bbf685f7c1be3fed6e53e9f49"
 metafile = true
 
 [[files]]
@@ -461,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "00333d2dc788dd78960ec81e01dddf1be001374623a7e99fffa4f7b1aca2a7d2"
+hash = "462dd81b6b1928bae07ee8c01fc8d0496285ad80f370565145722b087f7cca46"
 metafile = true
 
 [[files]]
@@ -481,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e4bc17e07c0ee661ca662ece5afbb6c293c3bb49b6c349d308605df88348995e"
+hash = "92aa4d3aa3ec76336d01ee22e9be70776238b733666962b33fddc733929d5d76"
 metafile = true
 
 [[files]]
@@ -496,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5dc34ef5a5c974d43ecc709c9530e9c5e76fc1fd380fe0a0947369ba72c73e2"
+hash = "9e4e05853bc5636ecbc0a0c64b1c1037143e5a246067c4002b227e471a726783"
 metafile = true
 
 [[files]]
