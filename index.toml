@@ -10,7 +10,7 @@ hash = "7849b2952a69e67303d1afeef3a5504f3bf6ee008ebce28248b1af7d3a33750b"
 
 [[files]]
 file = "config/emojiful.json"
-hash = "6227f5dccae6d7970eea294faf12d60595a7edd246dd042a2444e2480a78a829"
+hash = "93ed3e7df540ee71fe099bbafe36e10d51adb47f0dd39236e78371cba13f2b40"
 
 [[files]]
 file = "config/fwaystones/config.json5"

@@ -6,7 +6,7 @@
   "emojiReplacement": true,
   "enableLoadTwemoji": true,
   "loadCustom": false,
-  "loadDatapack": true,
+  "loadDatapack": false,
   "profanityFilter": false,
   "profanityFilterReplacement": ":swear:"
 }
