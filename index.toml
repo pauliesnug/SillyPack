@@ -9,6 +9,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "7849b2952a69e67303d1afeef3a5504f3bf6ee008ebce28248b1af7d3a33750b"
 
 [[files]]
+file = "config/emojiful.json"
+hash = "93ed3e7df540ee71fe099bbafe36e10d51adb47f0dd39236e78371cba13f2b40"
+
+[[files]]
 file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
