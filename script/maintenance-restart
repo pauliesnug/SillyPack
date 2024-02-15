@@ -1,22 +1,32 @@
 #!/usr/bin/env zsh
+PATH="${PATH}:/usr/local/bin"
 
-if [ -z `tmux ls | grep craft` ]; then
+echo "=============================="
+echo `date` "CURRENT TMUX SESSIONS:" `tmux ls`
+
+if [[ -z `command -v tmux` ]]; then
+    echo `date` "[ERROR] tmux not found on PATH"
+    exit 1
+elif [[ -z `tmux ls | grep craft` ]]; then
     echo `date` "[ERROR] tmux session 'craft' not found"
     exit 1
-fi	
+fi
 
-session=craft
-window=${session}:0
-pane=${window}.0
+session="craft"
+window="${session}:0"
+pane="${window}.0"
+
+warning1='/say §dHi! The server will automatically restart for maintenance in §f5 minutes'
+warning2="/say §dPlease wrap up anything critical. It is unlikely you need to restart your client."
+restarting='/say §cRestarting'
 
 echo `date` "[INFO] Attempting to send messages and a killcode to tmux session 'craft'"
 
-tmux send-keys -t "${pane}" '/say §dHi! The server will automatically restart for maintenance in §f5 minutes' Enter
+/usr/local/bin/tmux send-keys -t "${pane}" "${warning1}"  Enter
 sleep 2
-tmux send-keys -t "${pane}" '/say §dPlease wrap up anything critical. It is unlikely you need to restart your client.' Enter
-sleep 238
-tmux send-keys -t "${pane}" '/say §dServer is restarting for maintenance in §f1 minute§d!' Enter
-sleep 50
+/usr/local/bin/tmux send-keys -t "${pane}" "${warning2}" Enter
+sleep 280
+/usr/local/bin/tmux send-keys -t "${pane}" "${restarting}" Enter
 echo `date` "[INFO] Restarting"
-tmux send-keys -t "${pane}" '/say §cRestarting' Enter
-tmux send-keys -t "${pane}" '/stop' Enter
+sleep 10
+/usr/local/bin/tmux send-keys -t "${pane}" '/stop' Enter

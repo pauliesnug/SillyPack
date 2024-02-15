@@ -7,12 +7,20 @@
     <string>com.local.MinecraftGizmoNightlyRestart</string>
 
     <key>StartCalendarInterval</key>
-    <dict>
-        <key>Hour</key>
-        <integer>23</integer>
-        <key>Minute</key>
-        <integer>55</integer>
-    </dict>
+    <array>
+    	<dict>
+    		<key>Hour</key>
+    		<integer>11</integer>
+    		<key>Minute</key>
+    		<integer>55</integer>
+    	</dict>
+	    <dict>
+	        <key>Hour</key>
+	        <integer>23</integer>
+	        <key>Minute</key>
+	        <integer>55</integer>
+	    </dict>
+	</array>
 
     <key>StandardErrorPath</key>
     <string>/Users/kees/Workstation/log/stderr.log</string>
@@ -25,7 +33,7 @@
 
     <key>ProgramArguments</key>
     <array>
-      <string>/Users/kees/Workstation/Minecraft/server/maintenance-restart</string>
+      <string>/Users/kees/Workstation/Minecraft/maintenance-restart</string>
     </array>
 
   </dict>
