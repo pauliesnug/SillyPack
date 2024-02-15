@@ -113,7 +113,7 @@ file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.jso
 hash = "e2f9e118f2e3494539a62001b3418c7619ead0df820024ae48d8101b90c7b129"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/computer_chip.png"
+file = "kubejs/assets/kubejs/textures/item/unused_computer_chip.png"
 hash = "4fd1442654bb372c9ae8e17207008bf19130188009e1c2eaec90ab440784adf8"
 
 [[files]]
@@ -170,7 +170,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
-hash = "0540bf1f58852cb36e31f5eb97cfb589b1e31053731ad223e58e6898e8fc564a"
+hash = "8530c37cc333ecb366e199a065821207580602949c31a0677a2588b047bf1b58"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
