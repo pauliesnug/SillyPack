@@ -113,6 +113,10 @@ file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.jso
 hash = "e2f9e118f2e3494539a62001b3418c7619ead0df820024ae48d8101b90c7b129"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/unused_computer_chip.png"
+hash = "4fd1442654bb372c9ae8e17207008bf19130188009e1c2eaec90ab440784adf8"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "74dd6a8230271426a82098ff711f270b2d3445153565049bb4bdf1cefdf4af72"
 
