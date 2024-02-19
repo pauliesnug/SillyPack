@@ -381,11 +381,6 @@ hash = "109af9d68aeb998f5f6fa47241e6dd34f9d6fdfaf633c8683333df34aa1b596a"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook-mod-fabric.pw.toml"
-hash = "2bc100334a0bc3beb736911839a92afbfe1c0fe8a090e1051110680fa5e28fbf"
-metafile = true
-
-[[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "343dc30328f66750b2d1911c64ea2c022b0b5c13736e2be8be917b0759c5fd71"
 metafile = true
