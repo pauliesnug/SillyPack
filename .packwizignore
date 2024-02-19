@@ -10,3 +10,6 @@ script/*
 eslint.config.js
 pnpm-lock.yaml
 .vscode/*
+
+kubejs/probe/*
+kubejs/assets/ponderjs_generated/*

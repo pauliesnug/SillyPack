@@ -3,6 +3,7 @@
 ## Credits
 
 - thanks to @kenziemac130 for the aawesome help with the guide and contributions
+- LICENSING NOTE: TREECAPITATOR.JPG was taken from FurfSky Reborn
 
 ## Launcher Install
 

@@ -1,3 +1,5 @@
+LICENSING NOTE: TREECAPITATOR.JPG was taken from FurfSky Reborn. pls dont sue us :3
+
 Find more info on the website: https://kubejs.com/
 
 Directory information:
