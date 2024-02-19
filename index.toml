@@ -41,12 +41,20 @@ file = "config/timeoutout.json"
 hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
 
 [[files]]
+file = "config/treeharvester.json5"
+hash = "5a59f64265f870aa15fea40d873ddc5c6641dc72c252f29cffbe57948ffdaf9b"
+
+[[files]]
+file = "config/treeharvester/harvestable_axe_blacklist.txt"
+hash = "a668c04634eccb2eda7f269d4be5ca6e81b5e643b0ecd419a942f25f89e1269d"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "4c5276ee0fb6d3aaef83406b5b73dfdcb291959edf3f82c4a8ba2e989daa0c54"
 
 [[files]]
 file = "kubejs/README.txt"
-hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+hash = "74d685661ff4b08770ca9c81c36e48db7d93ddfe2a940dae6c6fa8e851d6ae6e"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/buckets.json"
@@ -113,6 +121,10 @@ file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.jso
 hash = "e2f9e118f2e3494539a62001b3418c7619ead0df820024ae48d8101b90c7b129"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/treecapitator.png"
+hash = "5bd8e18a9f37cf98cf354ab4ed7c60dbfddcdcb4f862c3d94a5a374ae83b97cb"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/unused_computer_chip.png"
 hash = "4fd1442654bb372c9ae8e17207008bf19130188009e1c2eaec90ab440784adf8"
 
@@ -153,6 +165,10 @@ file = "kubejs/config/common.properties"
 hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
 
 [[files]]
+file = "kubejs/jsconfig.json"
+hash = "52fdccb34b56073eb1b581db5153d709e9297b11793312294deada341533f456"
+
+[[files]]
 file = "kubejs/server_scripts/computer_chip.js"
 hash = "6157f9c4472e6b8daf6f0cb53c323bc981b04af87ff8f77c2f0e9da7bfec4d85"
 
@@ -169,12 +185,20 @@ file = "kubejs/server_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
+file = "kubejs/server_scripts/treecapitator.js"
+hash = "a5206eb3daf7edd22d68ebd20a893a5696b4a09301789fdc8f1e967bb135e6fc"
+
+[[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
 hash = "c363abe65af2cdc8e8d6e3b4c7fbdd74147510f246ff1354c7575497109881a1"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
+
+[[files]]
+file = "kubejs/startup_scripts/treecapitator.js"
+hash = "fba7f738213322209b0c65d203aba4ab0abb95a34d0931c4bb6a2d7315c64921"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -239,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "077201baa949977a84532ccd00cd662de9a21a5c296476f20753093eedd6e672"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c15446a16cbe29c871805caf968d423f624df948947cdf730504bbe63c972bfc"
 metafile = true
 
 [[files]]
@@ -599,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "47fe2c1dd998971b3d0ef65ae27c6ef54e2a0565285b4222f0620d2e4a587b35"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "bc67ffdd2e2c59791128b1810292bb62c9dc2c035e5a40b95707075bf7dbbcd9"
 metafile = true
 
 [[files]]
