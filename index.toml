@@ -42,7 +42,7 @@ hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
 
 [[files]]
 file = "config/treeharvester.json5"
-hash = "5a59f64265f870aa15fea40d873ddc5c6641dc72c252f29cffbe57948ffdaf9b"
+hash = "07f166d0e447a426d8c2c78cc124135531cce034e7155c4f5ca8f241d9f5eeb7"
 
 [[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
@@ -186,7 +186,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/server_scripts/treecapitator.js"
-hash = "a5206eb3daf7edd22d68ebd20a893a5696b4a09301789fdc8f1e967bb135e6fc"
+hash = "cd29d514b292f6ace624038e78f55f123f5283efaddaf48e453b2766e2128b3b"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
@@ -198,7 +198,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/startup_scripts/treecapitator.js"
-hash = "fba7f738213322209b0c65d203aba4ab0abb95a34d0931c4bb6a2d7315c64921"
+hash = "59ff7a4047977ab533059e7856f6587dc7481922be90557974a46bd74c3a04b9"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -448,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/log-ip-remover.pw.toml"
 hash = "88f935d8a4e7d7d3881c3a21ac0922435ec2d3380fe900b9a290046f68dcf9fc"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "dcb391bce6e019d73e592771fecca3bef3bbca73785280efb08dcc2657a82fbd"
 metafile = true
 
 [[files]]
