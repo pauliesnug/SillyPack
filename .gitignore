@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/java,node,gradle,forgegradle,macos,visualstudiocode,intellij,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=java,node,gradle,forgegradle,macos,visualstudiocode,intellij,linux
+# Created by https://www.toptal.com/developers/gitignore/api/java,node,linux,macos,gradle,intellij,forgegradle,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,node,linux,macos,gradle,intellij,forgegradle,visualstudiocode
 
 ### ForgeGradle ###
 # Minecraft client/server files
@@ -337,7 +337,6 @@ dist
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-!.vscode/*.code-snippets
 
 # Local History for Visual Studio Code
 .history/
@@ -382,3 +381,6 @@ gradle-app.setting
 packwiz.*
 *.zip
 *.mrpack
+# probejs/generated files
+kubejs/assets/ponderjs_generated
+
