@@ -32,5 +32,5 @@
 	"increasedHarvestingTimePerLogModifier": 0.2,
 	// How many leaves should be broken per tick after a tree has been harvested. Increasing this will speed up the fast leaf decay, but costs more processing power per tick.
 	// min: 1, max: 16
-	"amountOfLeavesBrokenPerTick": 4
+	"amountOfLeavesBrokenPerTick": 3
 }

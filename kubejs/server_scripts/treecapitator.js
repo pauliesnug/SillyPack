@@ -4,7 +4,7 @@ ServerEvents.recipes((event) => {
 		'BAB',
 		'BBB',
 	], {
-		A: 'minecraft:netherite_axe',
+		A: Item.of('minecraft:netherite_axe').ignoreNBT(),
 		B: 'minecraft:obsidian',
 	}).modifyResult((inventory, itemstack) => {
 		const item = inventory.find(Item.of('minecraft:netherite_axe'));

@@ -42,7 +42,7 @@ hash = "3966f424909049ba418dbb23be0f18efe19bb1bb33091cf15145ab8145c60b9a"
 
 [[files]]
 file = "config/treeharvester.json5"
-hash = "5d1735590ca5737a8b0964804c81a1f781bd487a91599c75ed626fa0f5780178"
+hash = "43d02cd1dded5da52b921ca4fde0b24d3a00206b46011c9a9f949b861c76a2b0"
 
 [[files]]
 file = "config/treeharvester/harvestable_axe_blacklist.txt"
@@ -186,7 +186,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/server_scripts/treecapitator.js"
-hash = "8372cb5b7619b9e4771bf385f483d9837bba8a73f9442df110223e8678083224"
+hash = "c8173c515f05c108f07621b88e79b2cff0d9a52ea0f15fcc356242b4ff116fe8"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
