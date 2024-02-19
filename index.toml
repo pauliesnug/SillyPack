@@ -186,7 +186,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/server_scripts/treecapitator.js"
-hash = "c8173c515f05c108f07621b88e79b2cff0d9a52ea0f15fcc356242b4ff116fe8"
+hash = "2dd9842d5fd7ce2c48352a75d2544da1081f1247ce522ca20757665da39ecfef"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
