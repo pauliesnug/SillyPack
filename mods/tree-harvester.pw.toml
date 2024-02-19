@@ -1,6 +1,6 @@
 name = "Tree Harvester"
 filename = "treeharvester-1.20.1-8.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/abooMhox/versions/zz5yoC3K/treeharvester-1.20.1-8.6.jar"

@@ -4,10 +4,10 @@ ServerEvents.recipes((event) => {
 		'BAB',
 		'BBB',
 	], {
-		A: 'minecraft:diamond_axe',
+		A: 'minecraft:netherite_axe',
 		B: 'minecraft:obsidian',
 	}).modifyResult((inventory, itemstack) => {
-		const item = inventory.find(Item.of('minecraft:diamond_axe'));
+		const item = inventory.find(Item.of('minecraft:netherite_axe'));
 		return itemstack.withNBT(item.nbt);
 	});
 });

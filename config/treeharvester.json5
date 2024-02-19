@@ -4,7 +4,7 @@
 	// If enabled, tree harvesting works when not holding the sneak button. If disabled it's reversed, and only works when sneaking.
 	"treeHarvestWithoutSneak": false,
 	// Whether the mod should attempt to find the actual bottom log of the tree and start there. This means you can break a tree in the middle and it will still completely be felled.
-	"automaticallyFindBottomBlock": false,
+	"automaticallyFindBottomBlock": true,
 	// If enabled, the leaves around a broken tree will quickly disappear. Only works with 'instantBreakLeavesAround' disabled.
 	"enableFastLeafDecay": true,
 	// If enabled, the warped stem/crimson trees in the nether will also be chopped down quickly.
