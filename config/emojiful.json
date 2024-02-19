@@ -1,12 +1,12 @@
 {
-  "renderEmoji": true,
-  "emojiSelector": true,
-  "emojiAutocomplete": true,
-  "gifEmojis": true,
-  "emojiReplacement": true,
-  "enableLoadTwemoji": true,
-  "loadCustom": false,
-  "loadDatapack": false,
-  "profanityFilter": false,
-  "profanityFilterReplacement": ":swear:"
+	"renderEmoji": true,
+	"emojiSelector": true,
+	"emojiAutocomplete": true,
+	"gifEmojis": true,
+	"emojiReplacement": true,
+	"enableLoadTwemoji": true,
+	"loadCustom": false,
+	"loadDatapack": false,
+	"profanityFilter": false,
+	"profanityFilterReplacement": ":swear:"
 }
