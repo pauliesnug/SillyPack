@@ -22,7 +22,7 @@ PlayerEvents.chat(event => {
 //this will repeat until -1 is returned
 function loopOverTime(ctx) {
 	const time = ctx()
-	if (time < -1) return
+	if (time < 0) return
 	Utils.server.schedule(time,()=>{
 		loopOverTime(ctx)
 	})
