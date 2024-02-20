@@ -321,6 +321,11 @@ hash = "2293302c8617c5226e20f9d6354ee93e90c9254ab70fe4035e00d7d03bfac707"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "1d327c7422c097ddef659468a367b195e299f1e40068bf95c2cd2ee6462faa67"
+metafile = true
+
+[[files]]
 file = "mods/emojiful.pw.toml"
 hash = "839eb2703122aea0bb74cb4f4336eb91248a53a97fa15dfd6a0d96f88d776d23"
 metafile = true
@@ -427,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "9f198a01713c750ec82315435fafaf8f305162281687594dab7245da595b130b"
+hash = "957b9c853fba5f5c4feb8d51227371132b740d2ce58b3b7e0ba7350590617145"
 metafile = true
 
 [[files]]
