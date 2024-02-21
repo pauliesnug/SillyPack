@@ -1,0 +1,19 @@
+{
+	"disabledIntegrations": [
+		"cem",
+		"citresewn",
+		"continuity",
+		"cullleaves",
+		"iris",
+		"lambdabettergrass",
+		"lambdynlights",
+		"dynamicfps",
+		"borderlessmining",
+		"colormatic",
+		"entity_model_features"
+	],
+	"enablePuzzleButton": false,
+	"debugMessages": false,
+	"checkUpdates": false,
+	"showPuzzleInfo": false
+}
