@@ -12,3 +12,8 @@ hash = "04c581d562417a6f4add8af0c55ba66d165eabaf"
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "akci2PEc"
+
+[option]
+optional = true
+default = false
+description = "Make the window display very low fps when focus is lost"

@@ -12,3 +12,8 @@ hash = "346cce5cb5d89e676d8ed0dca05522369063b3c3"
 [update.modrinth]
 mod-id = "8qkXwOnk"
 version = "PLfxrDkh"
+
+[option]
+optional = true
+default = true
+description = "Keep more chat history that you can scroll up to see"

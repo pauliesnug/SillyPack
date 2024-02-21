@@ -12,3 +12,8 @@ hash = "4ead20a0528788f36d4a7e38d1ebfec35218387e"
 [update.modrinth]
 mod-id = "HpdHOPOp"
 version = "JRvZ5VhS"
+
+[option]
+optional = true
+default = false
+description = "Please enable if you have FabricSkyBoxes enabled"

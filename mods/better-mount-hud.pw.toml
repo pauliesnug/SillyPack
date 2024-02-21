@@ -12,3 +12,8 @@ hash = "6942fb39ca2e87208b0b0630a5efc4511c82dcf4"
 [update.modrinth]
 mod-id = "kqJFAPU9"
 version = "h1QpxElt"
+
+[option]
+optional = true
+default = true
+description = "Displays better hunger and xp/jump bar on a mount"

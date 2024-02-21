@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "73791f240ab1baf1ed31abe88fd2e828fb47bdf1759c48ddc58af9c567548774"
+hash = "5fd17f109c2deafa22a3b1bb434aec999117f1eb9a38c92a9810c2218f98a129"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "5307212d3752dea816b14c4ff440c628acb6a5e047c13c43d64f674c85211b78"
+hash = "815fe40fdfa78d2ab7aded5941b99f95e99985866a16f7d0cfb00da96addb689"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "d967de19a1cad6211c0e706adeaadd2883daa0a568b25a5d633b71b4e3069525"
+hash = "db7d27f5416c426bcae16e5403b1de2c80f710b352399c1f7b07af75aa2b5fc6"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "6f316667299fa8873f9e5b2fe27b193ae3f0ab9cc390f5604271d62f35b5714b"
+hash = "55e3ab1db296db6b5f7736794789160cf6af057c8c5f13bbb071e13351940020"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d312386b844f30244f13aa553dc89566b41315257c40d9e892cf87bf3ca3e3a5"
+hash = "1f6198a7b6e5939c965d61540241d71f5d5cdc2aa8f8c57c215fca76977adcfa"
 metafile = true
 
 [[files]]
@@ -463,17 +463,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "9a9c0c87056dda664be67659ecea7ed3f7e65aee9d048598c37fce2b28076fd9"
+hash = "2442e6a94e1dd3b669ffb044489858ce8bb862dc3d1f5416a58bcd13286fb7d3"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "f2b419f025c8dad65d1ddb1ce0a5a5c5be21a286b4c6694252e471124b16ca6b"
+hash = "5237a4099509cc048f530cea2242cf0a4b481163aa3f3c94dc987efa8f6e5b78"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "763accf359e181705b696c0b4f9d734f2910d73bec1f343412fabaa1585090d0"
+hash = "00f3a1b32f2a87895ec171b58501b414584db45742a47c117545ab66450bb69d"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "35249cf70373ad06ec3823154b8c632de93e8f8ff9c05d924f959307adf03b5f"
+hash = "6192abca5c0fdd0777400da5f072c4d640b626367c0c144dfd11cc508c83b1dd"
 metafile = true
 
 [[files]]
@@ -648,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "c4778b6fd4b4e4b98fc8302637179b059c6fed0457b4e518d64a91a745a2f7b4"
+hash = "9c1871d3bfd3e28995b3d4a65f2205eebe8c6024e19bcfa2f4d619454ef3c95f"
 metafile = true
 
 [[files]]
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "8f7342f91d36c16778e9977e4d3dfa70d6b367605b42274588662b82a3efa66e"
+hash = "2dea023990542626208b8eddf34f955e48f2cfb16e5112e0eb73c236b48ce7ef"
 metafile = true
 
 [[files]]

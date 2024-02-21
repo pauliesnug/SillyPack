@@ -12,3 +12,8 @@ hash = "b662fd625ba1f06c6e4958eac373856047d0d2a9"
 [update.modrinth]
 mod-id = "1IjD5062"
 version = "Z9FJWLMt"
+
+[option]
+optional = true
+default = true
+description = "Connected texture support"

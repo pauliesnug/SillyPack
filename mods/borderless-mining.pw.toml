@@ -12,3 +12,8 @@ hash = "dbdb8a0600679f3c76480ae5d0995e2334773ce3"
 [update.modrinth]
 mod-id = "kYq5qkSL"
 version = "lhrW53q7"
+
+[option]
+optional = true
+default = false
+description = "Does window management magic to fix alt-tabbing to a second monitor from fullscreen"

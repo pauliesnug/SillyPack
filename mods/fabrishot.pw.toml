@@ -12,3 +12,8 @@ hash = "715edb014f9c41fed4fb1c4ba32d493916f7d89a"
 [update.modrinth]
 mod-id = "3qsfQtE9"
 version = "Rduo9X24"
+
+[option]
+optional = true
+default = false
+description = "Take big screenshots"
