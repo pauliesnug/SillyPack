@@ -12,8 +12,3 @@ hash = "ca859180ad2b57856fbcc8db4995c1871a7d556c"
 [update.modrinth]
 mod-id = "QwxR6Gcd"
 version = "6XDJoCks"
-
-[option]
-optional = true
-default = true
-description = "Fix lots of vanilla MC bugs (opt-in to fixes from modmenu panel)"

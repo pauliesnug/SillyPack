@@ -12,9 +12,3 @@ hash = "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
 [update.modrinth]
 mod-id = "WwbubTsV"
 version = "KMOzdYko"
-
-
-[option]
-optional = true
-default = true
-description = "Changes users' default config options with certain predetermined defaults"
