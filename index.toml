@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "e8365e4b767f158cc78ee60ae42638488fb21960be273657f5ee05d82f33d424"
+hash = "7a81281a3a6462083417783aea73b8a5be7adae67a393d2c3035302dc57b7980"
 metafile = true
 
 [[files]]
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "4ce47f5f29ccef2581c2da7814c4744cf2654f3332178e5f024e6625d20fb270"
+hash = "2231fbbdfb0d943612843badc5b086ba565b45afa61bae85beb3170185576d80"
 metafile = true
 
 [[files]]
