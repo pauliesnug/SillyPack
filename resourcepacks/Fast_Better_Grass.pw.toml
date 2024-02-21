@@ -12,3 +12,8 @@ hash = "6f9c2b0db50a4d0dd03dd9b7e1069c875c383fc39853f27ae269051b4511f374162dac90
 [update.modrinth]
 mod-id = "dspVZXKP"
 version = "dsyjkZFg"
+
+[option]
+optional = true
+default = false
+description = "Make grass-like blocks with top textures display the same color on the sides"
