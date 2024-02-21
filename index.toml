@@ -14,7 +14,7 @@ hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a4eb6b13a20e7bb61d7b86a68b9f870fd6c71006ad2f11bfdedce6b3abc70e80"
+hash = "b20e39ccf6feb8fa9c6c8eb87a68b6ebc02256bc5731ebe013003fc5b135edaf"
 
 [[files]]
 file = "config/styled-nicknames.json"
