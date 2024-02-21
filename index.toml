@@ -221,6 +221,10 @@ file = "kubejs/jsconfig.json"
 hash = "52fdccb34b56073eb1b581db5153d709e9297b11793312294deada341533f456"
 
 [[files]]
+file = "kubejs/server_scripts/chat_sounds.js"
+hash = "fe5b68ecbd5dbc371a72c5f1239193df2e2ea7880cb8ba833feca7108276f63a"
+
+[[files]]
 file = "kubejs/server_scripts/computer_chip.js"
 hash = "6157f9c4472e6b8daf6f0cb53c323bc981b04af87ff8f77c2f0e9da7bfec4d85"
 
