@@ -18,15 +18,7 @@
 	"translate_descriptions": true,
 	"config_mode": false,
 	"disable_drag_and_drop": false,
-	"hidden_mods": [
-		"citresewn-defaults",
-		"indium",
-		"minecraft",
-		"puzzle-base",
-		"puzzle-gui",
-		"puzzle-models",
-		"puzzle-splashscreen"
-	],
+	"hidden_mods": [],
 	"disable_update_checker": [],
 	"update_checker": false,
 	"button_update_badge": false,

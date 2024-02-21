@@ -53,28 +53,12 @@ file = "config/yosbr/config/cem.conf"
 hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
-hash = "b32d33e4f4949298643b5f93a5d3f24abf9385eed15c6f1368cd1521cb2e3837"
-
-[[files]]
-file = "config/yosbr/config/controlify.json"
-hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
-
-[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "2e5255e787c5ae177c0cfc9716f8b776773aff5afe935513e012908df6024e52"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "fdad3a280ef281668b8297236c0fc81b708a66834b15ea982be16742d311c3d9"
-
-[[files]]
-file = "config/yosbr/config/fabrishot.properties"
-hash = "76bea6edb9730b6e9c20e382e7bfa697daebefdda23bb61720fcdb08e9f612ec"
-
-[[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "89ce90457d431d0589acf09790510e696e334510f1dcc793175557f91366e25a"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
@@ -89,16 +73,12 @@ file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "34b4f643506133e5498fec766608a261b13ea3fc0d4e075fd7f68974386214fb"
 
 [[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "455884f3f169d1231c3354e44e62f4c4b917ba494d87f0004aac95f99bdba36a"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "ca92e91a2d856d42e4a5b1ba1900fbed0e942bcbeddd75c0195a2375ade75695"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "c8eddf6b69023250bced68f68c9321705ae7212b2b48a02726b25531a734d8d8"
+hash = "691f8bfa39ae689c345d4443dad984ea44f3826bf75d08f8ed6fa91e917d9099"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -119,10 +99,6 @@ hash = "3ba1af4b1fa48507be5ce610cbd5324449a8f9df2b903d549624318a3c7f03a8"
 [[files]]
 file = "config/yosbr/config/smoothswapping.json"
 hash = "3c4d5c4265caf92be8ad31c6d2fc5bfc89bbd442dad461f5f95563b6c0ba4fb3"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "4be727d4ce430daae98cefc5f56e5b20bc4822d31548d4b3821ef5c4d1ce374f"
 
 [[files]]
 file = "config/yosbr/config/sounds.ui.config.json"
@@ -398,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "55e3ab1db296db6b5f7736794789160cf6af057c8c5f13bbb071e13351940020"
+hash = "6f316667299fa8873f9e5b2fe27b193ae3f0ab9cc390f5604271d62f35b5714b"
 metafile = true
 
 [[files]]
@@ -598,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "7a81281a3a6462083417783aea73b8a5be7adae67a393d2c3035302dc57b7980"
+hash = "e8365e4b767f158cc78ee60ae42638488fb21960be273657f5ee05d82f33d424"
 metafile = true
 
 [[files]]
@@ -838,7 +814,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "2231fbbdfb0d943612843badc5b086ba565b45afa61bae85beb3170185576d80"
+hash = "4ce47f5f29ccef2581c2da7814c4744cf2654f3332178e5f024e6625d20fb270"
 metafile = true
 
 [[files]]
