@@ -1,0 +1,167 @@
+{
+	"type": "lychee:block_crushing",
+	"contextual": [
+		{
+			"type": "location",
+			"offsetX": -1,
+			"offsetY": -1,
+			"predicate": {
+				"block": {
+					"tag": "minecraft:base_stone_overworld"
+				}
+			}
+		},
+		{
+			"type": "location",
+			"offsetX": 1,
+			"offsetY": -1,
+			"predicate": {
+				"block": {
+					"tag": "minecraft:base_stone_overworld"
+				}
+			}
+		},
+		{
+			"type": "location",
+			"offsetY": -1,
+			"offsetZ": -1,
+			"predicate": {
+				"block": {
+					"tag": "minecraft:base_stone_overworld"
+				}
+			}
+		},
+		{
+			"type": "location",
+			"offsetY": -1,
+			"offsetZ": 1,
+			"predicate": {
+				"block": {
+					"tag": "minecraft:base_stone_overworld"
+				}
+			}
+		}
+	],
+	"post": [
+		{
+			"type": "if",
+			"contextual": [
+				{
+					"type": "location",
+					"offsetX": 1,
+					"predicate": {
+						"block": {
+							"tag": "minecraft:deepslate_ore_replaceables"
+						}
+					}
+				}
+			],
+			"then": [
+				{
+					"type": "place",
+					"block": "deepslate_lapis_ore",
+					"offsetX": 1
+				}
+			],
+			"else": [
+				{
+					"type": "place",
+					"block": "lapis_ore",
+					"offsetX": 1
+				}
+			]
+		},
+		{
+			"type": "if",
+			"contextual": [
+				{
+					"type": "location",
+					"offsetX": -1,
+					"offsetY": -1,
+					"predicate": {
+						"block": {
+							"tag": "minecraft:deepslate_ore_replaceables"
+						}
+					}
+				}
+			],
+			"then": [
+				{
+					"type": "place",
+					"block": "deepslate_lapis_ore",
+					"offsetX": -1
+				}
+			],
+			"else": [
+				{
+					"type": "place",
+					"block": "lapis_ore",
+					"offsetX": -1
+				}
+			]
+		},
+		{
+			"type": "if",
+			"contextual": [
+				{
+					"type": "location",
+					"offsetY": -1,
+					"offsetZ": 1,
+					"predicate": {
+						"block": {
+							"tag": "minecraft:deepslate_ore_replaceables"
+						}
+					}
+				}
+			],
+			"then": [
+				{
+					"type": "place",
+					"block": "deepslate_lapis_ore",
+					"offsetZ": 1
+				}
+			],
+			"else": [
+				{
+					"type": "place",
+					"block": "lapis_ore",
+					"offsetZ": 1
+				}
+			]
+		},
+		{
+			"type": "if",
+			"contextual": [
+				{
+					"type": "location",
+					"offsetY": -1,
+					"offsetZ": -1,
+					"predicate": {
+						"block": {
+							"tag": "minecraft:deepslate_ore_replaceables"
+						}
+					}
+				}
+			],
+			"then": [
+				{
+					"type": "place",
+					"block": "deepslate_lapis_ore",
+					"offsetZ": -1
+				}
+			],
+			"else": [
+				{
+					"type": "place",
+					"block": "lapis_ore",
+					"offsetZ": -1
+				}
+			]
+		},
+		{
+			"type": "place",
+			"block": "air"
+		}
+	],
+	"landing_block": "chipped:smoothed_double_inlayed_lapis_block"
+}
