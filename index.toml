@@ -217,12 +217,40 @@ file = "kubejs/config/common.properties"
 hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
 
 [[files]]
+file = "kubejs/data/chipped/recipes/uncompact_lapis_0.json"
+hash = "fb1d814b86bccb43b2b8c46b0556c17cba71e14ba2126ace9b71ee81d1c86c08"
+
+[[files]]
+file = "kubejs/data/chipped/recipes/uncompact_lapis_1.json"
+hash = "503cf6a9e5d43c549dd20cb35504d02dd5e517c46fc8fe6fbcf45b8b5bffdca9"
+
+[[files]]
+file = "kubejs/data/chipped/tags/blocks/lapis_block.json"
+hash = "9e9dd29c310c0566effcf61d995bb5fb6cf7cd5d243f1639ade7579ea5079e7c"
+
+[[files]]
+file = "kubejs/data/chipped/tags/items/lapis_block.json"
+hash = "9e9dd29c310c0566effcf61d995bb5fb6cf7cd5d243f1639ade7579ea5079e7c"
+
+[[files]]
+file = "kubejs/data/lychee/recipes/compact_lapis_0.json"
+hash = "2a5ac81835e97b6150414484fa448c7793c47c1f2fa7b06af1d30ea5d58ceb85"
+
+[[files]]
+file = "kubejs/data/lychee/recipes/compact_lapis_1.json"
+hash = "444defb334c471ce1de82f08ce004fb55088802128118c4f18e1f8470bbda5b9"
+
+[[files]]
+file = "kubejs/data/lychee/recipes/lapis_squirt.json"
+hash = "da60e73942cf7e7cab4bd655d5611d1f975a1a00ea3488b816e6a2043cf02a53"
+
+[[files]]
 file = "kubejs/jsconfig.json"
 hash = "52fdccb34b56073eb1b581db5153d709e9297b11793312294deada341533f456"
 
 [[files]]
 file = "kubejs/server_scripts/chat_sounds.js"
-hash = "fe5b68ecbd5dbc371a72c5f1239193df2e2ea7880cb8ba833feca7108276f63a"
+hash = "c88e4c0f462c1b1baae87e44bd855ae8e3f0bd2601f1daf427d44a7adad11bc9"
 
 [[files]]
 file = "kubejs/server_scripts/computer_chip.js"

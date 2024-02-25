@@ -1,5 +1,5 @@
 PlayerEvents.chat((event) => {
-	const words = event.message.toLowerCase().split(' ');
+	const words = event.message.toLowerCase().match(/\b\w+\b/g);
 	let index = 0;
 	let speed = 0.5;
 	loopOverTime(() => {
@@ -36,9 +36,17 @@ function loopOverTime(ctx) {
 function getSoundIdFromKey(key) {
 	switch (key) {
 		case 'meow': return 'entity.cat.ambient';
+		case 'mnya': return 'entity.cat.ambient';
 		case 'mnyaa': return 'entity.cat.ambient';
 		case 'nyaa': return 'entity.cat.ambient';
 		case 'mrow': return 'entity.cat.purreow';
+		case 'oink': return 'entity.pig.ambient';
+		case 'bark': return 'entity.wolf.ambient';
+		case 'huh': return 'entity.villager.ambient';
+		case 'hrmm': return 'entity.villager.no';
+		case 'hmm': return 'entity.villager.ambient';
+		case 'hm': return 'entity.villager.trade';
+		case 'baa': return 'entity.sheep.ambient';
 		default : return '';
 	}
 }
