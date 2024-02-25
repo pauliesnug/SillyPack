@@ -46,7 +46,7 @@ function getSoundIdFromKey(key) {
 		case 'hrmm': return 'entity.villager.no';
 		case 'hmm': return 'entity.villager.ambient';
 		case 'hm': return 'entity.villager.trade';
-		case 'baa': return 'entity.sheep.ambient'
+		case 'baa': return 'entity.sheep.ambient';
 		default : return '';
 	}
 }

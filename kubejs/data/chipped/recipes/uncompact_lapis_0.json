@@ -1,12 +1,12 @@
 {
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "chipped:inlayed_lapis_block"
-    }
-  ],
-  "result": {
-    "item": "minecraft:lapis_block",
-    "count": 3
-  }
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "chipped:inlayed_lapis_block"
+		}
+	],
+	"result": {
+		"item": "minecraft:lapis_block",
+		"count": 3
+	}
 }
