@@ -1,19 +1,17 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-3.4.1+minecraft-1.20.4-fabric.jar"
+filename = "dynamic-fps-3.4.2+minecraft-1.20.4-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/akci2PEc/dynamic-fps-3.4.1%2Bminecraft-1.20.4-fabric.jar"
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/shfvdKKK/dynamic-fps-3.4.2%2Bminecraft-1.20.4-fabric.jar"
 hash-format = "sha1"
-hash = "04c581d562417a6f4add8af0c55ba66d165eabaf"
+hash = "9e20b9ac6a068615355905b7e10f60d64acd0ccc"
 
 [update]
-
 [update.modrinth]
 mod-id = "LQ3K71Q1"
-version = "akci2PEc"
+version = "shfvdKKK"
 
 [option]
 optional = true
-default = false
 description = "Make the window display very low fps when focus is lost"
