@@ -12,8 +12,18 @@
 	"hide_badges": false,
 	"hide_mod_credits": false,
 	"easter_eggs": true,
+	"game_menu_button_style": "replace_bugs",
+	"random_java_colors": false,
+	"translate_names": true,
+	"translate_descriptions": true,
+	"config_mode": false,
+	"disable_drag_and_drop": false,
+	"hidden_mods": [],
+	"disable_update_checker": [],
+	"update_checker": false,
+	"button_update_badge": false,
+	"quick_configure": true,
 	"modify_title_screen": true,
 	"modify_game_menu": true,
-	"hide_config_buttons": false,
-	"hidden_mods": []
+	"hide_config_buttons": false
 }

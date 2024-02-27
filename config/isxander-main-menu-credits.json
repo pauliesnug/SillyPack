@@ -1,0 +1,14 @@
+{
+	"main_menu": {
+		"bottom_right": [
+			{
+				"text": "SillyPack, a modded tech pack",
+				"clickEvent": {
+					"action": "open_url",
+					"value": "https://gh.dyn.gay"
+				}
+			},
+			"Visit the Acegikmo discord for server IP"
+		]
+	}
+}

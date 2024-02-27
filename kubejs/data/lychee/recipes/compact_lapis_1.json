@@ -1,0 +1,52 @@
+{
+	"type": "lychee:block_crushing",
+	"contextual": [
+		{
+			"type": "and",
+			"contextual": [
+				{
+					"type": "location",
+					"offsetY": -2,
+					"predicate": {
+						"block": {
+							"blocks": [
+								"chipped:inlayed_lapis_block"
+							]
+						}
+					}
+				},
+				{
+					"type": "location",
+					"offsetY": -3,
+					"predicate": {
+						"block": {
+							"blocks": [
+								"chipped:inlayed_lapis_block"
+							]
+						}
+					}
+				}
+			]
+		}
+	],
+	"post": [
+		{
+			"type": "place",
+			"block": "chipped:smoothed_double_inlayed_lapis_block"
+		},
+		{
+			"type": "place",
+			"block": "anvil",
+			"offsetY": -1
+		},
+		{
+			"type": "prevent_default"
+		},
+		{
+			"type": "place",
+			"block": "air",
+			"offsetY": -2
+		}
+	],
+	"landing_block": "chipped:inlayed_lapis_block"
+}

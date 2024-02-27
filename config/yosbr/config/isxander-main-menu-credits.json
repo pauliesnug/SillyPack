@@ -1,0 +1,14 @@
+{
+	"main_menu": {
+		"bottom_right": [
+			{
+				"text": "SillyPack (broken install!!!!)",
+				"color": "red",
+				"clickEvent": {
+					"action": "open_url",
+					"value": "https://gh.dyn.gay"
+				}
+			}
+		]
+	}
+}
