@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7849b2952a69e67303d1afeef3a5504f3bf6ee008ebce28248b1af7d3a33750b"
+hash = "e1f5d86d3d5e2583cba47270427e05cf613ce3ecac849979a67391ddff68849f"
 
 [[files]]
 file = "config/emojiful.json"
@@ -11,6 +11,10 @@ hash = "a343307bc457e871d5e67c312062a2392e0fbbe3e6430cc2a6cff3a0dd4004ac"
 [[files]]
 file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
+
+[[files]]
+file = "config/grapplemod.json"
+hash = "c2ae7ef4b3b4b23c8018de8e0cc654254644d258e8e444e53031d28cd0c2d0af"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
