@@ -1,0 +1,18 @@
+{
+  "everyone": {
+    "overrides": {
+      "commands": {
+        "help": "allow",
+        ".*": "deny"
+      }
+    }
+  },
+  "technician": {
+    "level": 20,
+    "overrides": {
+      "commands": {
+        "spark": "allow"
+      }
+    }
+  }
+}
