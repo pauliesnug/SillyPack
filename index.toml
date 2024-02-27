@@ -17,6 +17,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "b20e39ccf6feb8fa9c6c8eb87a68b6ebc02256bc5731ebe013003fc5b135edaf"
 
 [[files]]
+file = "config/roles.json"
+hash = "9b97ec30656a0381362a8c5313e4b2869239a4fa3803e846f5af43246c88ff2c"
+
+[[files]]
 file = "config/styled-nicknames.json"
 hash = "fb04f0502cc418c19e745d3fef081c2315535ec1f034c129852a448340b0f466"
 
@@ -697,6 +701,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "846b002fb22f03057cac1fe8d5dd2dcea5abb0b77ab3477cf5ad174d7355a72a"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "3f43e41b325dc2c4c9590766b73803d6d081f3e210b184aba0f32a09ace75b55"
 metafile = true
 
 [[files]]

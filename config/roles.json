@@ -1,0 +1,19 @@
+{
+  "technician": {
+  	"level": 20,
+    "overrides": {
+      "commands": {
+      	"spark": "allow",
+      	"sparkc": "allow",
+      	"sparkclient": "allow"
+      }
+    }
+  },
+  "everyone": {
+    "overrides": {
+      "commands": {
+        "help": "allow"
+      }
+    }
+  }
+}
