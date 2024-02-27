@@ -1,17 +1,18 @@
 {
-  "everyone": {
+  "technician": {
+  	"level": 20,
     "overrides": {
       "commands": {
-        "help": "allow",
-        ".*": "deny"
+      	"spark": "allow",
+      	"sparkc": "allow",
+      	"sparkclient": "allow"
       }
     }
   },
-  "technician": {
-    "level": 20,
+  "everyone": {
     "overrides": {
       "commands": {
-        "spark": "allow"
+        "help": "allow"
       }
     }
   }
