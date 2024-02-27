@@ -700,6 +700,11 @@ hash = "846b002fb22f03057cac1fe8d5dd2dcea5abb0b77ab3477cf5ad174d7355a72a"
 metafile = true
 
 [[files]]
+file = "mods/player-roles.pw.toml"
+hash = "327d9bf44be806a2b33f7dbb914693d871acdd72eaa0f78b66b8cf4fbcb5622c"
+metafile = true
+
+[[files]]
 file = "mods/ponder.pw.toml"
 hash = "2fd5d15730c21d9cc73942815b4d45ada282538ff8dedd48eec67e31b2e0a020"
 metafile = true
