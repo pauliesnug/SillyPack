@@ -15,4 +15,5 @@ project-id = 585406
 
 [option]
 optional = true
+default = false
 description = "Enable ProbeJS for development purposes"
