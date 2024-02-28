@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+hash = "e17eb0c49da2cdde4b7d7dfab90a22a9f40cc57344910bfef83ba782788a1ab9"
 metafile = true
 
 [[files]]
@@ -306,12 +306,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "d349418229113f3ee294443bfca547e5b252da3849f7bcbfa10ab5177bdf4dde"
+hash = "bb475940fd52758d99e59ebfcd5da46cb220ad3460d2368d3a19552063fe4057"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+hash = "99e95b36d8111163064802304e6eafc000d5856a93869bf3964d9c6c153a8d56"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8875c35e0d48e5a048b7e789c013318a593724b4dad1eb8197e0c1c394f57265"
+hash = "bf41201280eff873e1a54d6cf295b8bcb39331d29f712388a3169320524c2830"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "f361b10a3272db57e401ae4ac4b8aa7695f27ffbf78b9560f552099bc5ce0901"
+hash = "842389ca4582f9cdf167423dcb3a9e1fd9ff5890a2b48e0678af3b5c34a11f10"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
-hash = "e1c67086eaf7e3df3066e81182a30b28d0b755c312cd6fa63aa4f12ecfc781cc"
+hash = "18012a8d1fb7b43b45ff93b9b60063404102bf8ba8724c99d15c144e12e379cc"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c1526d116ab9a49294f8ee45ac77d0f831a9dfe6f2bcb07897938c900ffcea65"
+hash = "7206c83ae6fc158b519485ec24e4f492283e5e6225cfa7afec736a046d4e41ad"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "e1b5497a7ed15673cd487ae2c39c1a7d933ac4bce76cb41ad699ba51358841a0"
+hash = "14c1097e5b47c821ea12e8daec0202861f846537d5fff37ea3a9df33ee815ad9"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f70b3d657e1f42d24b84c8d567a4fa1502578afc56862f5717fc0bd59c89e435"
+hash = "ca611289f41e733e45eeb6ec46810341b319daf153ba0f5be7def9cc32f3fd70"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+hash = "dfeb5b38bcd2eb2c6a95868a3719a3119738b7bfd8959c832054e7b3da06e52d"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "958e475fe348187dc7af3507d36f9f60b2dbe07a69f719e8a65b6f3062d12db6"
+hash = "c3ba26141b7cfbaaec45e253c489a50f70d8f9f6c134e24ec9e7c56918d1ad29"
 metafile = true
 
 [[files]]
@@ -866,5 +866,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "b34692913c9e00d68cf1d5a23748f756d3386162ae9a70020aa7663be7ea8cbd"
+hash = "a741e0932f3a4cd31d8601ad8ad70453c8a939250de1c2f60603bdf927973e96"
 metafile = true

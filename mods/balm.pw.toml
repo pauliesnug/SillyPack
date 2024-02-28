@@ -8,6 +8,7 @@ hash-format = "sha1"
 hash = "ce3a8468cddcd1bb40e60958e809e003a85a20c2"
 
 [update]
+
 [update.modrinth]
 mod-id = "MBAkmtvl"
 version = "v1tAteat"
