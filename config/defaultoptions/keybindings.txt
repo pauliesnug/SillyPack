@@ -69,15 +69,3 @@ key_key.voice_chat_adjust_volumes:key.keyboard.unknown:NONE
 key_iris.keybind.reload:key.keyboard.unknown:NONE
 key_iris.keybind.toggleShaders:key.keyboard.unknown:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown:NONE
-key_key.boththrow.desc:key.keyboard.unknown:NONE
-key_key.leftthrow.desc:key.keyboard.unknown:NONE
-key_key.rightthrow.desc:key.keyboard.unknown:NONE
-key_key.motoronoff.desc:key.keyboard.unknown:NONE
-key_key.jumpanddetach.desc:key.keyboard.unknown:NONE
-key_key.slow.desc:key.keyboard.unknown:NONE
-key_key.climb.desc:key.keyboard.unknown:NONE
-key_key.climbup.desc:key.keyboard.unknown:NONE
-key_key.climbdown.desc:key.keyboard.unknown:NONE
-key_key.enderlaunch.desc:key.keyboard.unknown:NONE
-key_key.rocket.desc:key.keyboard.unknown:NONE
-key_key.slide.desc:key.keyboard.unknown:NONE
