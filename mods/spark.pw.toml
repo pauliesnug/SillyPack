@@ -12,3 +12,8 @@ hash = "252de323db10d2b49ef74f8e7a6a5c72929be140"
 [update.modrinth]
 mod-id = "l6YH9Als"
 version = "XGW2fviP"
+
+[option]
+optional = true
+default = false
+description = "View debug info and figure out bugs/lag"
