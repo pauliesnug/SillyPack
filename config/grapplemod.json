@@ -4,9 +4,9 @@
       "custom": {
         "rope": {
           "maxlen": {
-            "default_value": 30.0,
+            "default_value": 100.0,
             "enabled": 0,
-            "max": 60.0,
+            "max": 100.0,
             "max_upgraded": 200.0,
             "min": 0.0,
             "min_upgraded": 0.0
@@ -30,7 +30,7 @@
             "min_upgraded": 0.0
           },
           "throwspeed": {
-            "default_value": 2.0,
+            "default_value": 4.0,
             "enabled": 0,
             "max": 5.0,
             "max_upgraded": 20.0,
@@ -106,7 +106,7 @@
         },
         "swing": {
           "playermovementmult": {
-            "default_value": 1.0,
+            "default_value": 1.5,
             "enabled": 0,
             "max": 2.0,
             "max_upgraded": 5.0,
@@ -229,7 +229,7 @@
         "rope_jump_power": 1.0,
         "rope_jump_at_angle": false,
         "rope_jump_cooldown_s": 0.0,
-        "climb_speed": 0.3
+        "climb_speed": 1.0
       }
     },
     "longfallboots": {
@@ -248,26 +248,26 @@
         "wallrun_max_speed": 0.7,
         "wallrun_drag": 0.01,
         "wallrun_min_speed": 0.0,
-        "enchant_rarity_wallrun": 0
+        "enchant_rarity_wallrun": 1
       },
       "doublejump": {
         "doublejumpforce": 0.8,
         "doublejump_relative_to_falling": false,
         "dont_doublejump_if_falling_faster_than": 9.9999999E7,
-        "enchant_rarity_double_jump": 0
+        "enchant_rarity_double_jump": 1
       },
       "slide": {
         "slidingjumpforce": 0.6,
         "sliding_friction": 0.006666666828095913,
-        "sliding_min_speed": 0.15,
+        "sliding_min_speed": 0.12,
         "sliding_end_min_speed": 0.01,
-        "enchant_rarity_sliding": 0
+        "enchant_rarity_sliding": 1
       }
     },
     "other": {
       "override_allowflight": true,
-      "airstrafe_max_speed": 0.7,
-      "airstrafe_acceleration": 0.015,
+      "airstrafe_max_speed": 0.6,
+      "airstrafe_acceleration": 0.008,
       "dont_override_movement_in_air": false
     }
   },
