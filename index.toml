@@ -18,7 +18,7 @@ hash = "5e08e278ea1bc6142b3b7ee6b4c0f3636c0f019585cbdf94fb7bf230f94a43c7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7849b2952a69e67303d1afeef3a5504f3bf6ee008ebce28248b1af7d3a33750b"
+hash = "e1f5d86d3d5e2583cba47270427e05cf613ce3ecac849979a67391ddff68849f"
 
 [[files]]
 file = "config/emojiful.json"
@@ -35,6 +35,10 @@ hash = "c35626924f9b7393e6fb80a7666d8c9d941f2924fae7f9c5695e052aa4ffc53b"
 [[files]]
 file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
+
+[[files]]
+file = "config/grapplemod.json"
+hash = "c2ae7ef4b3b4b23c8018de8e0cc654254644d258e8e444e53031d28cd0c2d0af"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -560,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "109af9d68aeb998f5f6fa47241e6dd34f9d6fdfaf633c8683333df34aa1b596a"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
 metafile = true
 
 [[files]]
