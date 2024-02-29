@@ -1,12 +1,36 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "b067b7d448e414921f1002c6e808813d1958e4b4675a22f767becf91f7130e79"
+
+[[files]]
+file = "config/create_enchantment_industry-server.toml"
+hash = "71451615d7f83f77ca8bc344ed8770d2b7f4204f68e7b301159fc408a514c1b5"
+
+[[files]]
+file = "config/create_new_age-common.toml"
+hash = "124277c9a07fe5d12d96db87a91e83239dcb9ee598af4a85dc763b56dd2ff088"
+
+[[files]]
+file = "config/create_power_loader-server.toml"
+hash = "5e08e278ea1bc6142b3b7ee6b4c0f3636c0f019585cbdf94fb7bf230f94a43c7"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "e1f5d86d3d5e2583cba47270427e05cf613ce3ecac849979a67391ddff68849f"
 
 [[files]]
 file = "config/emojiful.json"
 hash = "a343307bc457e871d5e67c312062a2392e0fbbe3e6430cc2a6cff3a0dd4004ac"
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "ed59c88ea757fd3a6341e1244cf25bad66512aa6908c3f9271a1a7b99db5d8f3"
+
+[[files]]
+file = "config/extended_drawers.json"
+hash = "c35626924f9b7393e6fb80a7666d8c9d941f2924fae7f9c5695e052aa4ffc53b"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -19,6 +43,14 @@ hash = "c2ae7ef4b3b4b23c8018de8e0cc654254644d258e8e444e53031d28cd0c2d0af"
 [[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "b20e39ccf6feb8fa9c6c8eb87a68b6ebc02256bc5731ebe013003fc5b135edaf"
+
+[[files]]
+file = "config/railways-common.toml"
+hash = "354187d44841ca2d0ca6ac3b8007c4896aade1f3888cee787049285bdf01bfe7"
+
+[[files]]
+file = "config/railways-server.toml"
+hash = "998658db980363ba0ffb3051bfe9eceeca829a3be56a70609a41e1f722b318df"
 
 [[files]]
 file = "config/styled-nicknames.json"
@@ -55,6 +87,18 @@ hash = "693aa9568f7570903171bb97ef80af06488502a6f6ba977af30255cbcdf38e8b"
 [[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
+
+[[files]]
+file = "config/yosbr/config/collective.json5"
+hash = "2648465edc7061e7f739ada620757e323db993355d9d32e32fd4ae7ee575ecae"
+
+[[files]]
+file = "config/yosbr/config/computercraft-client.toml"
+hash = "48005a085d005ced39720792b5dc667935d81d961752f00b4b5c68a891dcf739"
+
+[[files]]
+file = "config/yosbr/config/create_new_age-client.toml"
+hash = "ba620279eb0da98bf1103441697c19a949a87fafe74ee3e560d096c95752d35d"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -269,6 +313,10 @@ file = "kubejs/server_scripts/minecart.js"
 hash = "83d239424557c8e71dfb4ad511e6da249e58e133db7e6c31dac736ac38c1db5e"
 
 [[files]]
+file = "kubejs/server_scripts/power_loader.js"
+hash = "3481c40c381109c72ce625d91e8ee7bf598fb22e54b05c00945cb811bc10b8c2"
+
+[[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
@@ -300,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "52f857d4d493de3f9c95258269268e55f0dd5e201f7f58fcd0637b90815128a9"
+hash = "e17eb0c49da2cdde4b7d7dfab90a22a9f40cc57344910bfef83ba782788a1ab9"
 metafile = true
 
 [[files]]
@@ -310,17 +358,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "0afada6f3df3234fae50f2688191be91dffc67fbf602d8f36382085198a6dddb"
+hash = "bb475940fd52758d99e59ebfcd5da46cb220ad3460d2368d3a19552063fe4057"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ac1d61be47d7db220294764cd4d98e9704b3357ef95adce4c4ea1990b51e8771"
-metafile = true
-
-[[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "5fd17f109c2deafa22a3b1bb434aec999117f1eb9a38c92a9810c2218f98a129"
+hash = "99e95b36d8111163064802304e6eafc000d5856a93869bf3964d9c6c153a8d56"
 metafile = true
 
 [[files]]
@@ -370,7 +413,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "c15446a16cbe29c871805caf968d423f624df948947cdf730504bbe63c972bfc"
+hash = "bf41201280eff873e1a54d6cf295b8bcb39331d29f712388a3169320524c2830"
 metafile = true
 
 [[files]]
@@ -385,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "e0bd919e1de97e4da82e980cf03d90460d5699fb820483de48afe256c145ad35"
+hash = "842389ca4582f9cdf167423dcb3a9e1fd9ff5890a2b48e0678af3b5c34a11f10"
 metafile = true
 
 [[files]]
@@ -396,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "ab4e5eeaf501de9a7a67fc92c87ed0f65daf854eb72273260fe31f10a0e2cf7b"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "18012a8d1fb7b43b45ff93b9b60063404102bf8ba8724c99d15c144e12e379cc"
 metafile = true
 
 [[files]]
@@ -420,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1f6198a7b6e5939c965d61540241d71f5d5cdc2aa8f8c57c215fca76977adcfa"
+hash = "7206c83ae6fc158b519485ec24e4f492283e5e6225cfa7afec736a046d4e41ad"
 metafile = true
 
 [[files]]
@@ -715,7 +763,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "e1b5497a7ed15673cd487ae2c39c1a7d933ac4bce76cb41ad699ba51358841a0"
+hash = "14c1097e5b47c821ea12e8daec0202861f846537d5fff37ea3a9df33ee815ad9"
 metafile = true
 
 [[files]]
@@ -765,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b70a095acb9a44c75acd40784c7d26e77d15f659acab5f1d8f3474b011eca912"
+hash = "ca611289f41e733e45eeb6ec46810341b319daf153ba0f5be7def9cc32f3fd70"
 metafile = true
 
 [[files]]
@@ -795,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+hash = "d0d8a6b0e4f4c1d71c898ed8138f437168a5d588c39865d9121b0d6f3859e7ba"
 metafile = true
 
 [[files]]
@@ -835,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "0575b9bdef7571631d7769e098d369884dabb40d9b930212928b91bd943ec758"
+hash = "c3ba26141b7cfbaaec45e253c489a50f70d8f9f6c134e24ec9e7c56918d1ad29"
 metafile = true
 
 [[files]]
@@ -875,5 +923,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "d111fb2c303fbb9bc2e58bd1bbc89f95a6a35d88ded8342c273feb6e91364015"
+hash = "a741e0932f3a4cd31d8601ad8ad70453c8a939250de1c2f60603bdf927973e96"
 metafile = true
