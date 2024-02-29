@@ -18,7 +18,7 @@ hash = "5e08e278ea1bc6142b3b7ee6b4c0f3636c0f019585cbdf94fb7bf230f94a43c7"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "e1f5d86d3d5e2583cba47270427e05cf613ce3ecac849979a67391ddff68849f"
+hash = "7849b2952a69e67303d1afeef3a5504f3bf6ee008ebce28248b1af7d3a33750b"
 
 [[files]]
 file = "config/emojiful.json"
@@ -38,7 +38,7 @@ hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
 [[files]]
 file = "config/grapplemod.json"
-hash = "c2ae7ef4b3b4b23c8018de8e0cc654254644d258e8e444e53031d28cd0c2d0af"
+hash = "a227a09a1a7aa21c346ec21bb8a0517891e3a54201a38cbbf21976f75ffd95f2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -221,6 +221,10 @@ file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.jso
 hash = "e2f9e118f2e3494539a62001b3418c7619ead0df820024ae48d8101b90c7b129"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "27c2796b3a4c353cb4e2e9979cec442e2eecb5e23b8fed8e9a03a0ee8f41ba65"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/treecapitator.png"
 hash = "5bd8e18a9f37cf98cf354ab4ed7c60dbfddcdcb4f862c3d94a5a374ae83b97cb"
 
@@ -307,6 +311,10 @@ hash = "6157f9c4472e6b8daf6f0cb53c323bc981b04af87ff8f77c2f0e9da7bfec4d85"
 [[files]]
 file = "kubejs/server_scripts/create_casing.js"
 hash = "709a8b944b013fa05d8599cfc92fa82858d7e6ff6eb83494fb61099d18742420"
+
+[[files]]
+file = "kubejs/server_scripts/grappling.js"
+hash = "152fbf5aa1c20c675a69dbabdc8c844c2ac1aba194054cdedaaad11269c8b20f"
 
 [[files]]
 file = "kubejs/server_scripts/minecart.js"
