@@ -445,6 +445,11 @@ hash = "c0d864e9f7e858815bfc62da1d309adf5067687065469caa4e3867474f53db09"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "ab4e5eeaf501de9a7a67fc92c87ed0f65daf854eb72273260fe31f10a0e2cf7b"
 metafile = true
@@ -502,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "d2882cba9089e7f949af2bacc7ff4c2630f2e2fd8272c4ddfd61d94924a52a3f"
+metafile = true
+
+[[files]]
+file = "mods/estrogen.pw.toml"
+hash = "9291c85bf0059c7d80e023f65816850919ea4b9c967477d0e3d1b44f811b573a"
 metafile = true
 
 [[files]]
