@@ -313,6 +313,10 @@ file = "kubejs/server_scripts/create_casing.js"
 hash = "709a8b944b013fa05d8599cfc92fa82858d7e6ff6eb83494fb61099d18742420"
 
 [[files]]
+file = "kubejs/server_scripts/create_hyper_exp.js"
+hash = "c6a8ca56fc24fa5616bc615bf21136782632b6437a013d9fbb126bfb2215ac0d"
+
+[[files]]
 file = "kubejs/server_scripts/grappling.js"
 hash = "152fbf5aa1c20c675a69dbabdc8c844c2ac1aba194054cdedaaad11269c8b20f"
 
