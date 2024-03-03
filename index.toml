@@ -37,6 +37,10 @@ file = "config/fwaystones/config.json5"
 hash = "f3eab60089ca26ff4a5214126f6435965cd756511380ba7953ca992f34b32a4f"
 
 [[files]]
+file = "config/grapplemod.json"
+hash = "a227a09a1a7aa21c346ec21bb8a0517891e3a54201a38cbbf21976f75ffd95f2"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "b20e39ccf6feb8fa9c6c8eb87a68b6ebc02256bc5731ebe013003fc5b135edaf"
 
@@ -217,6 +221,10 @@ file = "kubejs/assets/itemswapper/itemgroups/wheel_secondary/create_windmill.jso
 hash = "e2f9e118f2e3494539a62001b3418c7619ead0df820024ae48d8101b90c7b129"
 
 [[files]]
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "27c2796b3a4c353cb4e2e9979cec442e2eecb5e23b8fed8e9a03a0ee8f41ba65"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/treecapitator.png"
 hash = "5bd8e18a9f37cf98cf354ab4ed7c60dbfddcdcb4f862c3d94a5a374ae83b97cb"
 
@@ -307,6 +315,10 @@ hash = "709a8b944b013fa05d8599cfc92fa82858d7e6ff6eb83494fb61099d18742420"
 [[files]]
 file = "kubejs/server_scripts/create_hyper_exp.js"
 hash = "c6a8ca56fc24fa5616bc615bf21136782632b6437a013d9fbb126bfb2215ac0d"
+
+[[files]]
+file = "kubejs/server_scripts/grappling.js"
+hash = "152fbf5aa1c20c675a69dbabdc8c844c2ac1aba194054cdedaaad11269c8b20f"
 
 [[files]]
 file = "kubejs/server_scripts/minecart.js"
@@ -564,6 +576,11 @@ metafile = true
 [[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "109af9d68aeb998f5f6fa47241e6dd34f9d6fdfaf633c8683333df34aa1b596a"
+metafile = true
+
+[[files]]
+file = "mods/grappling-hook-mod-fabric.pw.toml"
+hash = "5af6dedbbeefaee309d3f5d3e5f50cd5dee67e29206daca953951846e59a9204"
 metafile = true
 
 [[files]]
