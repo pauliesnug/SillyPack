@@ -26,20 +26,4 @@ ServerEvents.recipes((event) => {
 
 		heatRequirement: 'superheated',
 	});
-
-	event.custom({
-		type: 'create:haunting',
-
-		ingredients: [
-			{
-				item: 'minecraft:wither_rose',
-			},
-		],
-
-		results: [
-			{
-				item: 'minecraft:glow_ink_sac',
-			},
-		],
-	});
 });
