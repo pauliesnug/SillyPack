@@ -10,7 +10,7 @@ hash = "71451615d7f83f77ca8bc344ed8770d2b7f4204f68e7b301159fc408a514c1b5"
 
 [[files]]
 file = "config/create_new_age-common.toml"
-hash = "124277c9a07fe5d12d96db87a91e83239dcb9ee598af4a85dc763b56dd2ff088"
+hash = "54268e703b07dddbdb4318c694739ae0d2adb9c2476a69ed4a247a0c20cc2f7a"
 
 [[files]]
 file = "config/create_power_loader-server.toml"
