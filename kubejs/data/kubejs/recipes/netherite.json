@@ -1,0 +1,14 @@
+{
+  "type": "create_new_age:energising",
+  "energy_needed": 500000,
+  "ingredients": [
+    {
+      "item": "createdeco:netherite_nugget"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:ancient_debris"
+    }
+  ]
+}
