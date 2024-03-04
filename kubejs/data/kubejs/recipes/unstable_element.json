@@ -1,0 +1,70 @@
+{
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+	  "item": "create:rose_quartz"
+	},
+	"transitionalItem": {
+	  "item": "kubejs:incomplete_unstable_element"
+	},
+	"sequence": [
+	  {
+	    "type": "create_new_age:energising",
+	    "energy_needed": 1000,
+	    "ingredients": [
+		{
+		  "item": "kubejs:incomplete_unstable_element"
+		}
+	    ],
+	    "results": [
+		{
+		  "item": "kubejs:incomplete_unstable_element"
+		}
+	    ]
+	  },
+	  {
+		"type": "create:filling",
+		"ingredients": [
+		  {
+		    "item": "kubejs:incomplete_unstable_element"
+		  },
+		  {
+		    "fluid": "create:potion",
+		    "nbt": {
+			"Bottle": "REGULAR",
+			"Potion": "minecraft:fire_resistance"
+		    },
+		    "amount": 2700
+		  }
+		],
+		"results": [
+		  {
+		    "item": "kubejs:incomplete_unstable_element"
+		  }
+		]
+	    }
+	],
+	"results": [
+	  {
+	    "item": "kubejs:unstable_element",
+	    "chance": 13.0
+	  },
+	  {
+	    "item": "create:polished_rose_quartz",
+	    "chance": 2.0
+	  },
+	  {
+	    "item": "minecraft:magma_cream",
+	    "chance": 2.0
+	  },
+	  {
+	    "item": "minecraft:netherrack"
+	  },
+	  {
+	    "item": "minecraft:nether_quartz_ore"
+	  },
+	  {
+	    "item": "minecraft:redstone_block"
+	  }
+	],
+	"loops": 3
+    }
