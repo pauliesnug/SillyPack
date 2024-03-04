@@ -1,0 +1,15 @@
+{
+	"type": "lychee:block_crushing",
+	"post": [
+		{
+			"type": "place",
+			"block": "minecraft:glowstone"
+		}
+	],
+	"item_in": [
+		{
+			"item": "minecraft:warped_wart_block"
+		}
+	],
+	"landing_block": "kubejs:toxic"
+}
