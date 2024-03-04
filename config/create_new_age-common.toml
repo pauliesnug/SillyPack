@@ -40,7 +40,7 @@ ReactorRodHeatLoss = 25.0
 solarPanelHeatMultiplier = 1.0
 # Maximum wire length
 # Range: > 1
-maxWireLength = 16
+maxWireLength = 40
 
 [Motors]
 # Internal energy capacity of a basic motor
