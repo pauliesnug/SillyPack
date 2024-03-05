@@ -3,7 +3,7 @@
 	"post": [
 		{
 			"type": "place",
-			"block": "minecraft:glowstone"
+			"block": "minecraft:warped_wart_block"
 		}
 	],
 	"item_in": [
