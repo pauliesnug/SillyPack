@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "b067b7d448e414921f1002c6e808813d1958e4b4675a22f767becf91f7130e79"
+hash = "6db3bdb487dd0929181a20cd8878d3f7e115f4bfa906c66eb5d1c1c5728bd6bd"
 
 [[files]]
 file = "config/create_enchantment_industry-server.toml"
