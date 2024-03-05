@@ -440,7 +440,7 @@ placementAssistRange = 12
 # .
 # The Maximum Distance at which a Toolbox can interact with Players' Inventories.
 # Range: > 1
-toolboxRange = 10
+toolboxRange = 40
 # .
 # The Maximum volume of Air that can be stored in a backtank = Seconds of underwater breathing
 # Range: > 1
