@@ -514,6 +514,11 @@ hash = "d2882cba9089e7f949af2bacc7ff4c2630f2e2fd8272c4ddfd61d94924a52a3f"
 metafile = true
 
 [[files]]
+file = "mods/estrogen.pw.toml"
+hash = "9291c85bf0059c7d80e023f65816850919ea4b9c967477d0e3d1b44f811b573a"
+metafile = true
+
+[[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "16ba22642af2c6b5e51f5ede26507436d522c2389c6945d6e5d3563bd6fe26cf"
 metafile = true
