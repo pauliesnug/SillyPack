@@ -1,19 +1,18 @@
 name = "Show Me Your Skin!"
-filename = "show-me-your-skin-1.6.11+1.20.jar"
+filename = "show-me-your-skin-1.8.0+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/nMEOfVi4/show-me-your-skin-1.6.11%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/bD7YqcA3/versions/yPAbIxZe/show-me-your-skin-1.8.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "af0412ad2209f8f551c0b9c40217ec0a237cda5f"
+hash = "1d0c3863fe7c2922a07b14fa5cee4fc3a2df5955"
 
 [update]
-
 [update.modrinth]
 mod-id = "bD7YqcA3"
-version = "nMEOfVi4"
+version = "yPAbIxZe"
 
 [option]
 optional = true
-default = true
 description = "Hide or customize armor rendering/opacity."
+default = true

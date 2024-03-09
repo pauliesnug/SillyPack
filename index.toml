@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bf41201280eff873e1a54d6cf295b8bcb39331d29f712388a3169320524c2830"
+hash = "265ab37d029cc8c79959a509483c39c595a02889d6f6f520a28e26822cb96f00"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "842389ca4582f9cdf167423dcb3a9e1fd9ff5890a2b48e0678af3b5c34a11f10"
+hash = "da0b1e65c3bb9f9eabfbaf4242b3adf22267752adb3824fe62b24077cf458340"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "36a96fbc964cac8b94074c8d2880f004eb3b01e9525f6cbb4635b1169c5103f1"
+hash = "2250d424633babae3b3f240382111fe0588e30031421fb7d6ac4f3e9d27be18c"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "34f261ff2e524a76a1827975c6c80d54b8f13f0a9e4d87073847b1d4e1107e30"
+hash = "2d402accb412d403fab442732d27b985779aa6fc2d0637318b0e38313c18dfc3"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "df8d8f0ab4b350d2a6d5da193fbaac99cd461338ed71dd750d2fda8884fdcdef"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "99f845b6b37ce93114632949525dc3f8f824a7dccf509cbd64f967a9e989d6b8"
+hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "385a545e40fc880fa9d39e07cc05b8b9efb25b1486ed07b135965f132d9343ae"
+hash = "96e6194009feb5fe0058e7d7bec3c5dce704443f01665c0b9ea47365cbbbb33d"
 metafile = true
 
 [[files]]
@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ca611289f41e733e45eeb6ec46810341b319daf153ba0f5be7def9cc32f3fd70"
+hash = "100a394fb85a8e12d14d9d1ae17f8d28a1052ebb1ed6fb33762915a743184e14"
 metafile = true
 
 [[files]]
@@ -940,5 +940,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "a741e0932f3a4cd31d8601ad8ad70453c8a939250de1c2f60603bdf927973e96"
+hash = "6cc00cd393628230a790a65dc3f50a71310e729144061a7dbb99709eec401ec6"
 metafile = true
