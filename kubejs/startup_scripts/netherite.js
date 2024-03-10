@@ -22,7 +22,7 @@ StartupEvents.registry('item', event => {
 	addRune("aaa","§kBoTtOmSpEaK")
 	addRune("crime","Crime")
 	addRune("cute","Cuteness")
-	addRune("hug","hugs")
+	addRune("hug","Hugs")
 	addRune("love","Love")
 	addRune("lust","Lust")
 	addRune("magic","Magic")
