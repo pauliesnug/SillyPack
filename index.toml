@@ -269,6 +269,10 @@ file = "kubejs/config/common.properties"
 hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
 
 [[files]]
+file = "kubejs/data/    extended_drawers/recipes  /shadow_drawer.json"
+hash = "290552fd9fdb67ca4de2f83d706ff6a548592b773030d2e0fad4b6d961ea4b26"
+
+[[files]]
 file = "kubejs/data/chipped/recipes/uncompact_lapis_0.json"
 hash = "fb1d814b86bccb43b2b8c46b0556c17cba71e14ba2126ace9b71ee81d1c86c08"
 
