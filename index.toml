@@ -269,10 +269,6 @@ file = "kubejs/config/common.properties"
 hash = "5a4543e460897775a18928c73fd8eed1d27047bbef256cc55d4e396b4febe119"
 
 [[files]]
-file = "kubejs/data/    extended_drawers/recipes  /shadow_drawer.json"
-hash = "290552fd9fdb67ca4de2f83d706ff6a548592b773030d2e0fad4b6d961ea4b26"
-
-[[files]]
 file = "kubejs/data/chipped/recipes/uncompact_lapis_0.json"
 hash = "fb1d814b86bccb43b2b8c46b0556c17cba71e14ba2126ace9b71ee81d1c86c08"
 
@@ -287,6 +283,26 @@ hash = "9e9dd29c310c0566effcf61d995bb5fb6cf7cd5d243f1639ade7579ea5079e7c"
 [[files]]
 file = "kubejs/data/chipped/tags/items/lapis_block.json"
 hash = "9e9dd29c310c0566effcf61d995bb5fb6cf7cd5d243f1639ade7579ea5079e7c"
+
+[[files]]
+file = "kubejs/data/create/recipes/cutting/cherry_log.json"
+hash = "e4595ce0e668b52ade0126d9e3d7fadf640b7deb805d89b41d5d030985495d73"
+
+[[files]]
+file = "kubejs/data/create/recipes/cutting/cherry_wood.json"
+hash = "7bd49f2cbc53d1282ea9079071b959011780df7efa4df572c79b293417e2b80f"
+
+[[files]]
+file = "kubejs/data/create/recipes/cutting/stripped_cherry_log.json"
+hash = "44387bbc43ee64b44dfe443ea5fe4b24f96a9a2db44142a174e9a7f49515ecc7"
+
+[[files]]
+file = "kubejs/data/create/recipes/cutting/stripped_cherry_wood.json"
+hash = "916fc6042559cfb5e5a5a66f0527403d1820a9ce7678c965cd34d4a4afeecd30"
+
+[[files]]
+file = "kubejs/data/extended_drawers/recipes/shadow_drawer.json"
+hash = "290552fd9fdb67ca4de2f83d706ff6a548592b773030d2e0fad4b6d961ea4b26"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/compact_lapis_0.json"
