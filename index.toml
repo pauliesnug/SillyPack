@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "59e8aff7f543265d0258406b964a70300ddf6d8968cd2c339fb4d41a593e01d6"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "6c07a35730cfa8275465ee316868fe5a447042da6d20f4c3e314ca676b0ca700"
+hash = "c03fa7f482568dabf2f0b94b7d56f2d261acd4b833b72e24e784c2df372bc0cd"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "46ca48c77f281eecf13af0e680120d20de8c441e1ffccbfd7a8213f68b401b5d"
+hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
 metafile = true
 
 [[files]]
@@ -520,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "7254ca3910b4443390490a07bfaa8e43c1ef6e6a9c94309392b41d75cce54ed5"
+hash = "93d99545b282f59cbd40e6b33c2df7599e9a1dfd8ad2ec765a1274ecde33ff38"
 metafile = true
 
 [[files]]
@@ -830,12 +830,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "7ccb2ed252046a9b0dc5977051d5ebc6d5f544eb0a9866a1effdf346c326d26b"
+hash = "01e7f8eb10a5771bf33d42e1387a9a3a888b93573e03790cabf33efbaf2fe050"
 metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "97d88dee115cee40c9a714c8ee0eefaad2418fda6087d3c8435c8f6002e8ddb7"
+hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "820648f9b34fa6db0a70a6c87116265d33c90c86e98b6f3734a68aaa6c49466c"
+hash = "46274fba9bb376f85baeba5edac4d8e3066b4872178324167207f8a36b0b6be5"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "ab11927cd9e2079af34209947002a0f2bf3a2f4c8ec07abf7de73b4b4efee99a"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
@@ -940,5 +940,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "95d151e1fd635489ba0f03a0b351b8bf90f21fd3236b92e2fa48f28826a4da61"
+hash = "c6f039fb5855760ffa29e50f5893119996a6e3b1f9df292a578479538601e8b0"
 metafile = true
