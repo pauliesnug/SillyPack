@@ -1,3 +1,5 @@
+// todo: renable once cpl fabric is updated
+/*
 ServerEvents.recipes((event) => {
 	event.remove({ output: 'create_power_loader:empty_brass_chunk_loader' });
 
@@ -37,3 +39,5 @@ ServerEvents.recipes((event) => {
 		result: { item: 'create_power_loader:empty_brass_chunk_loader', count: 1 },
 	});
 });
+
+ */

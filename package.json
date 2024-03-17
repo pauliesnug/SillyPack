@@ -8,7 +8,7 @@
 		"build": "node ./scripts/build.js"
 	},
 	"devDependencies": {
-		"@flowr/eslint-config": "2.1.1-alpha.22",
+		"@flowr/eslint-config": "2.2.1",
 		"eslint": "^8.56.0"
 	}
 }
