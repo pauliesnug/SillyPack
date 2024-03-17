@@ -346,7 +346,7 @@ hash = "83d239424557c8e71dfb4ad511e6da249e58e133db7e6c31dac736ac38c1db5e"
 
 [[files]]
 file = "kubejs/server_scripts/power_loader.js"
-hash = "3481c40c381109c72ce625d91e8ee7bf598fb22e54b05c00945cb811bc10b8c2"
+hash = "98768a9fac0a2b9a9bdab5737a5864c72d50d6bbf0f82750e29e038c92a866df"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
