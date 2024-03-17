@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+hash = "d9a60253cb1930c42a203e204318b15dca6f077de4ff9a4edf1dcd94b2ee6cc2"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c03fa7f482568dabf2f0b94b7d56f2d261acd4b833b72e24e784c2df372bc0cd"
+hash = "200506f42e700ecadd1d16ce5ad1bda730e09578349e4e34cc4fb4db139553cd"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
+hash = "4711a2d8177c63549ff9bec9b303133f0a8c8d682e7335916ab83de5328bb25d"
 metafile = true
 
 [[files]]
@@ -456,11 +456,6 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "ab4e5eeaf501de9a7a67fc92c87ed0f65daf854eb72273260fe31f10a0e2cf7b"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader-fabric.pw.toml"
-hash = "18012a8d1fb7b43b45ff93b9b60063404102bf8ba8724c99d15c144e12e379cc"
 metafile = true
 
 [[files]]
@@ -520,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "93d99545b282f59cbd40e6b33c2df7599e9a1dfd8ad2ec765a1274ecde33ff38"
+hash = "cb33e10af00ea09680029e8b88c51817cf8ef393caa0986700b24d172f6cf317"
 metafile = true
 
 [[files]]
@@ -830,12 +825,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "01e7f8eb10a5771bf33d42e1387a9a3a888b93573e03790cabf33efbaf2fe050"
+hash = "b1574d5d3887a5d40349cb9d0bec2b9ac729f6b6b41f2810b83c861590135d48"
 metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "8bc19b2297c704b501c34367b2c0f73adef7781d9099bd61becd62df5caea303"
+hash = "19c1003dd90d4a2fc33c20eb3ef28a3cd3ce5caf0bc58e5ddc98fc8dc0b86566"
 metafile = true
 
 [[files]]
@@ -855,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "46274fba9bb376f85baeba5edac4d8e3066b4872178324167207f8a36b0b6be5"
+hash = "c1c244089f7effb4ae0df53e536f22ac500b17f51c2175cba99222fd3bd4bb7a"
 metafile = true
 
 [[files]]
@@ -905,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+hash = "e6cf95f4e675f8bce8cb49c1ab33e1f96036b1d97cf0b9bd63ad5e940d559091"
 metafile = true
 
 [[files]]
@@ -940,5 +935,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "c6f039fb5855760ffa29e50f5893119996a6e3b1f9df292a578479538601e8b0"
+hash = "5821ef56876961e76f7e31decf968b3058b2fce54fe076f34358c83059a2e71a"
 metafile = true
