@@ -10,15 +10,6 @@
 	"minecraft:tropical_fish_bucket",
 	"minecraft:axolotl_bucket",
 	"minecraft:tadpole_bucket",
-	"ad_astra:oil_bucket",
-	"ad_astra:fuel_bucket",
-	"ad_astra:cryo_fuel_bucket",
-	"ad_astra:oxygen_bucket",
-	"betterend:bucket_end_fish",
-	"betterend:bucket_cubozoa",
-	"cave_enhancements:goop_bucket",
 	"create:honey_bucket",
-	"create:chocolate_bucket",
-	"createaddition:bioethanol_bucket",
-	"createaddition:seed_oil_bucket"
+	"create:chocolate_bucket"
 ]
