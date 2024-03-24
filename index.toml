@@ -225,12 +225,144 @@ file = "kubejs/assets/kubejs/lang/en_us.json"
 hash = "6493d86065034e0edd8faf25cf6b88f5274e7e7a847b51554e78b153ec6198d7"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/toxic.json"
+hash = "cc76c9dcdc8bf783bcd69c5c01e2b207e4c5d9f83e40f62967ac0350701f732b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/pure_math.png"
+hash = "3f409577eb27adc4b85a492770eb472927d09910fbe354f545a33a7a66064e7a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/pure_math.png.mcmeta"
+hash = "34aa024a12ff4480d2021636a1c16200562cb9eab03e5be40bc3332d979d1d49"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/toxic.png"
+hash = "8d4efa61e558fa5697973af1b8bd7d257c36f0dec9b476b8d6c9a31613325d97"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/toxic_side.png"
+hash = "80de563996138528d5b30df91ae5f6471cdc4d1e3130e2c83bfe4206aea22bf6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/toxic_top.png"
+hash = "44fbdda3dde0239f9dcacc2d08d36130d2d99c309b8da9e5da3c80ccde16b310"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/unstable_element.png"
+hash = "86b01ac3e92d369df002894f004c471f3c583367adced38b1e471c932edd5924"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/unstable_element.png.mcmeta"
+hash = "165bdb161894455253ba5831aa8058a3d2362ac9ec25f92d1b66d5bcf0115fab"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/3_rune.png"
+hash = "f66f248e7dbe5fd0b430fc150aad37f4b875fdf45cd2fdcb4b2e7b62e50e6a93"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/3_rune.png.mcmeta"
+hash = "ffe69db49f609cefcd04b95cd4ec5259025ec9ea31bfdc3717a4f4d9f59bc922"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/aaa_rune.png"
+hash = "805691f2100d6d209fbab7d087477670b59f4bf898474aa9ba8e582722dc386b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/aaa_rune.png.mcmeta"
+hash = "8ea5d9f991894e29fe456a340c8d287def2ff8171d0bf2d427924662454a74e5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/crime_rune.png"
+hash = "8f99f7b04a5d1de995bacfa169e8bdceef4bb64744808fcf9d1c79ab6921faef"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/crime_rune.png.mcmeta"
+hash = "e14434ed27eaf25a8cadd0a816d770508fb8442ff5eab4ca78715123a83a3198"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/cute_rune.png"
+hash = "b96bdd4c3d8ba1723fe636f54762f1861c6fbc2320d08639f5ec97faf5c4e1dd"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/gay_rune.png"
+hash = "1824b85fe4e7cdef5e5f5affc37fa4c0fccdd929cc7c75aaa224e6c04adc573c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/hug_rune.png"
+hash = "e74802d6b06b97b20e713dca492b52f301c877f3732c36126337b6c3bcc70b43"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/love_rune.png"
+hash = "814375a171233db044ce9165d070c91faba13b9a37f7f5420c9c76354d79ca68"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/lust_rune.png"
+hash = "573b1aa4f5b4dc6f2a55c9e0b46469b1ee0faf4eb0cb40ffb79239963fbaa190"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/lust_rune.png.mcmeta"
+hash = "8ea5d9f991894e29fe456a340c8d287def2ff8171d0bf2d427924662454a74e5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/magic_rune.png"
+hash = "120783c5ad924fc089a51999d34ae36af42caf1bdebce8e4b2fbe248d70d323c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/magic_rune.png.mcmeta"
+hash = "f84452e15ec6edf0568acaef07501cc054aec7adfa8f65a73e17d3f5b7309f7a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/math_rune.png"
+hash = "6601d0f5517970a154707c5a0c7bb522e9672d7acf70b445fd4949c4aadce8ca"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/math_rune.png.mcmeta"
+hash = "3f1a566831bc81d617d28373c2ab1d9cf80df62215ea34d52d43dbd29d62cb5a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/meow_rune.png"
+hash = "f867c2e619788c6bf90a8bd161c87872f6b6159c4ef5e6de8718456637468319"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/power_rune.png"
+hash = "e6c5ed9288ef1920955a3bef175512772737f9e3a1363d65ecb90bd622b5c573"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/power_rune.png.mcmeta"
+hash = "14e4900dc57045ac024a1a5a916cc031e1341c7dbb75e97c91d3ea0d82d0845f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/pretty_rune.png"
+hash = "a10b4f79fbe2e95a7d0a014ba7b685d240c137694d6453d5f0f495d33d5251f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/pretty_rune.png.mcmeta"
+hash = "fb10bc704ce67729f44716d063e46a7588883b53237ad5f3d534c5c53ea52674"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/silly_rune.png"
+hash = "d6527c0842ee19239655e8a08e82af4da7358907fa6bb598982aa3a71f8c3737"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/sleepy_rune.png"
+hash = "1fbb88bb1cb843f3fc7f20df9056239a83ff4e5ad800ba246450dc8ab8482e5a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/runes/smart_rune.png"
+hash = "ccb0d70ce0e61c9669643bfdcee26916d2704f41fb534d9b48cf8c1fcdf3bea7"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/treecapitator.png"
 hash = "5bd8e18a9f37cf98cf354ab4ed7c60dbfddcdcb4f862c3d94a5a374ae83b97cb"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/unused_computer_chip.png"
 hash = "4fd1442654bb372c9ae8e17207008bf19130188009e1c2eaec90ab440784adf8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/mob_effect/silly.png"
+hash = "bb7bec09e20594196d7912fc8f04b2904a585d1c376ec5b020da9cb6f41e3ce7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -313,8 +445,24 @@ file = "kubejs/data/lychee/recipes/compact_lapis_1.json"
 hash = "444defb334c471ce1de82f08ce004fb55088802128118c4f18e1f8470bbda5b9"
 
 [[files]]
+file = "kubejs/data/lychee/recipes/delete_debris.json"
+hash = "7bf5a91724165fd3a2a9585ee64c35a56ac78de4c8d37d2c5420a5ddd28a126a"
+
+[[files]]
 file = "kubejs/data/lychee/recipes/lapis_squirt.json"
 hash = "da60e73942cf7e7cab4bd655d5611d1f975a1a00ea3488b816e6a2043cf02a53"
+
+[[files]]
+file = "kubejs/data/lychee/recipes/make_ancient_debris.json"
+hash = "b4bc6e73b06dababcc323d8c3651a390ae5f0f3dd271cc7e3a231cea863ff1b2"
+
+[[files]]
+file = "kubejs/data/lychee/recipes/pureify_toxic.json"
+hash = "ece7e2b1273f5210fe6f32791c8ba892044688b6a54fac47d63cc369bf185679"
+
+[[files]]
+file = "kubejs/data/lychee/recipes/rune_lootbox.json"
+hash = "6f84833baccdc84533c3ca2b45209845449232abc5d28b2854e998291f60f080"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -345,6 +493,10 @@ file = "kubejs/server_scripts/minecart.js"
 hash = "83d239424557c8e71dfb4ad511e6da249e58e133db7e6c31dac736ac38c1db5e"
 
 [[files]]
+file = "kubejs/server_scripts/netherite.js"
+hash = "f08704fc7c1a4d7e91b6f29a686d04b55ff67570b07d84c647f65a02dcf48c20"
+
+[[files]]
 file = "kubejs/server_scripts/power_loader.js"
 hash = "98768a9fac0a2b9a9bdab5737a5864c72d50d6bbf0f82750e29e038c92a866df"
 
@@ -353,12 +505,20 @@ file = "kubejs/server_scripts/script.js"
 hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
+file = "kubejs/server_scripts/some_recipes_easier.js"
+hash = "3333a62b57404794af9bbff48ebd3f5b596f6d35ef7e0947dda82aa31aa93c0e"
+
+[[files]]
 file = "kubejs/server_scripts/treecapitator.js"
 hash = "8372cb5b7619b9e4771bf385f483d9837bba8a73f9442df110223e8678083224"
 
 [[files]]
 file = "kubejs/startup_scripts/computer_chip.js"
 hash = "c363abe65af2cdc8e8d6e3b4c7fbdd74147510f246ff1354c7575497109881a1"
+
+[[files]]
+file = "kubejs/startup_scripts/netherite.js"
+hash = "425d885eaa18ae6bacb6ba1db28cf9741ac0fd10c225e0ac8c106ed1fce234e3"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
