@@ -1,0 +1,93 @@
+{
+	"type": "lychee:block_crushing",
+	"post": [
+	  {
+	    "type": "random",
+	    "rolls": 32,
+	    "entries": [
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:3_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:aaa_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:crime_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:cute_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:hug_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:love_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:lust_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:magic_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:math_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:meow_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:power_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:pretty_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:gay_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:silly_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:smart_rune"
+		},
+		{
+		  "type": "drop_item",
+		  "item": "kubejs:sleepy_rune"
+		}
+	    ]
+	  },
+	  {
+	    "type": "place",
+	    "block": "air"
+	  },
+	  {
+	    "type": "drop_item",
+	    "item": "minecraft:anvil"
+	  },
+	  {
+	    "type": "prevent_default"
+	  }
+	],
+	"item_in": [
+	  {
+	    "item": "minecraft:echo_shard"
+	  }
+	],
+	"landing_block": "minecraft:netherite_block"
+    }
+    
