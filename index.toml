@@ -226,7 +226,7 @@ hash = "6493d86065034e0edd8faf25cf6b88f5274e7e7a847b51554e78b153ec6198d7"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/toxic.json"
-hash = "cc76c9dcdc8bf783bcd69c5c01e2b207e4c5d9f83e40f62967ac0350701f732b"
+hash = "7c484f17ea97cdd70ac6adaee67093297b3f888f995102e39577ca36b482fb0d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/pure_math.png"
@@ -418,23 +418,23 @@ hash = "9e9dd29c310c0566effcf61d995bb5fb6cf7cd5d243f1639ade7579ea5079e7c"
 
 [[files]]
 file = "kubejs/data/create/recipes/cutting/cherry_log.json"
-hash = "e4595ce0e668b52ade0126d9e3d7fadf640b7deb805d89b41d5d030985495d73"
+hash = "00dad57e6393534ffc4ca20121653e2c3bc8cd8f74e2372cd082e7e60a607f5b"
 
 [[files]]
 file = "kubejs/data/create/recipes/cutting/cherry_wood.json"
-hash = "7bd49f2cbc53d1282ea9079071b959011780df7efa4df572c79b293417e2b80f"
+hash = "64b8ec59bc4032d0511497a7266b3187b11c2ab61405d720c46c38e243337827"
 
 [[files]]
 file = "kubejs/data/create/recipes/cutting/stripped_cherry_log.json"
-hash = "44387bbc43ee64b44dfe443ea5fe4b24f96a9a2db44142a174e9a7f49515ecc7"
+hash = "6e47ad6d91f22fcec5e67518cd4e53f887f591ab492b19203347a72289544c12"
 
 [[files]]
 file = "kubejs/data/create/recipes/cutting/stripped_cherry_wood.json"
-hash = "916fc6042559cfb5e5a5a66f0527403d1820a9ce7678c965cd34d4a4afeecd30"
+hash = "7b351e129ac3d53a784a2ad46f518d3234f3952680f45605771e75e3318d92fa"
 
 [[files]]
 file = "kubejs/data/extended_drawers/recipes/shadow_drawer.json"
-hash = "290552fd9fdb67ca4de2f83d706ff6a548592b773030d2e0fad4b6d961ea4b26"
+hash = "329d20c2b783a0945c3feb61fd6dc7e1f1f7a4b6be87c6afab759047738f7e98"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/compact_lapis_0.json"
@@ -446,7 +446,7 @@ hash = "444defb334c471ce1de82f08ce004fb55088802128118c4f18e1f8470bbda5b9"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/delete_debris.json"
-hash = "7bf5a91724165fd3a2a9585ee64c35a56ac78de4c8d37d2c5420a5ddd28a126a"
+hash = "bc3508a82b0af826c14790a4d0e04f038d40923022858b661a92d1027b105411"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/lapis_squirt.json"
@@ -454,15 +454,15 @@ hash = "da60e73942cf7e7cab4bd655d5611d1f975a1a00ea3488b816e6a2043cf02a53"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/make_ancient_debris.json"
-hash = "b4bc6e73b06dababcc323d8c3651a390ae5f0f3dd271cc7e3a231cea863ff1b2"
+hash = "30cf88eb0a3e239de2e2b57d20e862414ad26adf2c3b4cc3833fdd85353f6a6e"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/pureify_toxic.json"
-hash = "ece7e2b1273f5210fe6f32791c8ba892044688b6a54fac47d63cc369bf185679"
+hash = "195aaec779e2876b2cf58507607b352095bd2abea8a980e9811dff28d41e1064"
 
 [[files]]
 file = "kubejs/data/lychee/recipes/rune_lootbox.json"
-hash = "6f84833baccdc84533c3ca2b45209845449232abc5d28b2854e998291f60f080"
+hash = "39abe346476c4c1ae1958bb7ffcabe67544bcad5fecc2836d7c76b439366d8d0"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -490,11 +490,11 @@ hash = "1b5781dcb0ab0d1a8bb287e1561e702263fce7443d7c45c828e63425ccd01bdc"
 
 [[files]]
 file = "kubejs/server_scripts/netherite.js"
-hash = "f08704fc7c1a4d7e91b6f29a686d04b55ff67570b07d84c647f65a02dcf48c20"
+hash = "00c54748f14c989b3eb9857aea8d692fac086d70129f9964ed1ddf89a3ae7952"
 
 [[files]]
 file = "kubejs/server_scripts/power_loader.js"
-hash = "98768a9fac0a2b9a9bdab5737a5864c72d50d6bbf0f82750e29e038c92a866df"
+hash = "3481c40c381109c72ce625d91e8ee7bf598fb22e54b05c00945cb811bc10b8c2"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
@@ -502,7 +502,7 @@ hash = "a15ab0cd467ca9734360ed6609346a3b7161f1a2f46cf0f126c58d18f5361ac9"
 
 [[files]]
 file = "kubejs/server_scripts/some_recipes_easier.js"
-hash = "3333a62b57404794af9bbff48ebd3f5b596f6d35ef7e0947dda82aa31aa93c0e"
+hash = "d9fe384cfc3e433bfbc011daf97a1a0e0a9de907e1b2f5da5e9d46d9567849ad"
 
 [[files]]
 file = "kubejs/server_scripts/treecapitator.js"
@@ -514,7 +514,7 @@ hash = "c363abe65af2cdc8e8d6e3b4c7fbdd74147510f246ff1354c7575497109881a1"
 
 [[files]]
 file = "kubejs/startup_scripts/netherite.js"
-hash = "425d885eaa18ae6bacb6ba1db28cf9741ac0fd10c225e0ac8c106ed1fce234e3"
+hash = "a9292ff68fa65d7df5bb32c115a0ecb510c262942a238b0280c243b60a8f99ce"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "d100b64a9bff423874a840c410d1a4a4d916ddceb519ead64760d186a9fd8314"
+hash = "a372354fd580646cfd713bbdc68aa0c07c18727695e452f27cc42544fe8f7a34"
 metafile = true
 
 [[files]]
@@ -632,6 +632,11 @@ metafile = true
 [[files]]
 file = "mods/create-new-age.pw.toml"
 hash = "ab4e5eeaf501de9a7a67fc92c87ed0f65daf854eb72273260fe31f10a0e2cf7b"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "42484d8422f3c240faa86b26303e437ffe4358f4c1184f5f540f3218f6c27b69"
 metafile = true
 
 [[files]]
@@ -766,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "9e982ac9747fd6cbb1c3f472ff466a64d196c1a7f7b04b5d1e3e532b9c3ce91e"
 metafile = true
 
 [[files]]
@@ -846,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/lychee.pw.toml"
-hash = "faa6199e3042722aacc61e0262a459cc8fa67df816d86a602125b3de801a92dd"
+hash = "2c30a404dfb33f1070aae4a84b6fa7d1578f6f0e33f546ab2ee928aa4b9d13c1"
 metafile = true
 
 [[files]]
@@ -886,12 +891,12 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
+hash = "2ec68742361f131df1a8ab0b2a28b50b3768d6881348329aebc405eed726be38"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
+hash = "6fd9b3cd3cb0a91c86a39741be89575b92e12d02d395e38c41dab732d26714f8"
 metafile = true
 
 [[files]]
@@ -976,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
+hash = "9cc4f6f14513dbc9b8930c8997d640debc596ca4154c7642c0114e773c23bf35"
 metafile = true
 
 [[files]]
@@ -1001,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8e0b9cb40f631eb09a79d8680fc63ad7c536d471b99b6ac185144c9c12739deb"
+hash = "875145ac86df5aee95fd44e5745a938683d4f5f7bbce4b3ca2a842f95259c66f"
 metafile = true
 
 [[files]]
@@ -1111,5 +1116,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "acf7b9e0f21dcbe5029319702bd80b7d61a17fb1832e52725cdee211fef8f3da"
+hash = "8f928b200b6fecd4f82a041eeb5067c40b3d068203b672476ecb5ee81ecc04fa"
 metafile = true

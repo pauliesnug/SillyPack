@@ -1,39 +1,38 @@
 {
 	"type": "lychee:item_inside",
 	"contextual": [
-	  {
-	    "type": "location",
-	    "offsetY": 1,
-	    "predicate": {
-		"block": {
-		  "blocks": [
-		    "minecraft:lava"
-		  ]
+		{
+			"type": "location",
+			"offsetY": 1,
+			"predicate": {
+				"block": {
+					"blocks": [
+						"minecraft:lava"
+					]
+				}
+			}
 		}
-	    }
-	  }
 	],
 	"post": [
-	  {
-	    "type": "random",
-	    "entries": [
 		{
-		  "type": "place",
-		  "block": "minecraft:ancient_debris"
-		},
-		{
-		  "type": "place",
-		  "block": "kubejs:toxic"
+			"type": "random",
+			"entries": [
+				{
+					"type": "place",
+					"block": "minecraft:ancient_debris"
+				},
+				{
+					"type": "place",
+					"block": "kubejs:toxic"
+				}
+			]
 		}
-	    ]
-	  }
 	],
 	"max_repeats": 1,
 	"item_in": [
-	  {
-	    "item": "createdeco:netherite_nugget"
-	  }
+		{
+			"item": "createdeco:netherite_nugget"
+		}
 	],
 	"block_in": "kubejs:unstable_element"
-    }
-    
+}
