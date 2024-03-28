@@ -158,27 +158,27 @@ hash = "74d685661ff4b08770ca9c81c36e48db7d93ddfe2a940dae6c6fa8e851d6ae6e"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/buckets.json"
-hash = "e52f1905121903702d9cd3e811e3638212aae3a9da96f77fad7a98b4155a150b"
+hash = "de664ba4b6e4426df7ba2e696d7f59d39e696a2ced4cfaa36fff90ee8cfc2ea7"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/explosives.json"
-hash = "418cf1dc93fa1314228f5ea62236855790b61f894912706a82b55916bc76b9de"
+hash = "bbc22fce2276bb1acd7524a1a9228fb080370e30da1470b0c87a1b173726d7cb"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/food.json"
-hash = "e00b490d15ba194f2567b01a52a567a07e8d4ccb78c17a03a24088e54e72b242"
+hash = "7ca691c25b4130af87b36c411f4dc6f3a3ef09a277a9a1c52c8cdd865543940e"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/misc_tools.json"
-hash = "3794633be16509131fd9e207309a2648bc9a85e1c62aa4fe3a6fe3738b7748cd"
+hash = "9f8419b3a70c316a788833580724fd1559dca30c92e4a3e00e2d86fe9dde39b7"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/tools.json"
-hash = "00a4e653fb908fb29096e30af9badb9158f03728b58589a7c50bcab2e50cb6a2"
+hash = "ef3fdf9ed2438a1ad7fb153553b5c84e7808cc601df8ca5bf15b53ecbb272012"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/list/weapons.json"
-hash = "d8c89a26231844e029a88095cf67de05f511cdfe9a486781a738daf5d48a6fb4"
+hash = "39a06e808179cc5d2b0bba317f6bd4d177c786282ac6efac19f92d96646550a2"
 
 [[files]]
 file = "kubejs/assets/itemswapper/itemgroups/wheel_primary/create_conveyor.json"
@@ -487,10 +487,6 @@ hash = "c6a8ca56fc24fa5616bc615bf21136782632b6437a013d9fbb126bfb2215ac0d"
 [[files]]
 file = "kubejs/server_scripts/grappling.js"
 hash = "1b5781dcb0ab0d1a8bb287e1561e702263fce7443d7c45c828e63425ccd01bdc"
-
-[[files]]
-file = "kubejs/server_scripts/minecart.js"
-hash = "83d239424557c8e71dfb4ad511e6da249e58e133db7e6c31dac736ac38c1db5e"
 
 [[files]]
 file = "kubejs/server_scripts/netherite.js"
