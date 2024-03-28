@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "200506f42e700ecadd1d16ce5ad1bda730e09578349e4e34cc4fb4db139553cd"
+hash = "d100b64a9bff423874a840c410d1a4a4d916ddceb519ead64760d186a9fd8314"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c7e55cb013917aba16d88ad9d19d5430602b80c18fc9bc1744e8a8de0b8a4f1c"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/lychee.pw.toml"
-hash = "9e99e63bc7eb6fbb3a7844fe4fd6b71b02bd81d2bed54e852ed8ea5f9f7892b8"
+hash = "faa6199e3042722aacc61e0262a459cc8fa67df816d86a602125b3de801a92dd"
 metafile = true
 
 [[files]]
@@ -886,12 +886,12 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "81f33753c2d8a64a595d796825fc1adbab7cf303de34ccc652be654d63fb8fac"
+hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e37ac56f4e06c9a2bf359b5261a83da63c9f8726eb06bd5222d9405946b584fa"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "462dd81b6b1928bae07ee8c01fc8d0496285ad80f370565145722b087f7cca46"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -1001,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b1574d5d3887a5d40349cb9d0bec2b9ac729f6b6b41f2810b83c861590135d48"
+hash = "8e0b9cb40f631eb09a79d8680fc63ad7c536d471b99b6ac185144c9c12739deb"
 metafile = true
 
 [[files]]
@@ -1111,5 +1111,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/SodiumTranslations.pw.toml"
-hash = "5821ef56876961e76f7e31decf968b3058b2fce54fe076f34358c83059a2e71a"
+hash = "acf7b9e0f21dcbe5029319702bd80b7d61a17fb1832e52725cdee211fef8f3da"
 metafile = true
