@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 runs=0
+ALLOCATED_RAM="12G"
 
 cd /Users/${USER}/Workstation/Minecraft/server
+
 
 while true
 do
@@ -9,8 +11,8 @@ do
     -jar packwiz-installer-bootstrap.jar \
     -g -s server https://gh.dyn.gay/pack.toml
 
-  java -Xmx12G -Xms1G \
-    -jar fabric-server-mc.1.20.1-loader.0.15.6-launcher.1.0.0.jar
+  java -Xmx${ALLOCATED_RAM} -Xms1G \
+    -jar fabric-server-mc.1.20.1-loader.0.15.7-launcher.1.0.0.jar
 
   runs=$((runs+1))
   echo "Restarting in 10 seconds, ctrl^c to cancel."

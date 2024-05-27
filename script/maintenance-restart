@@ -16,8 +16,8 @@ session="craft"
 window="${session}:0"
 pane="${window}.0"
 
-warning1='/say §dHi! The server will automatically restart for maintenance in §f5 minutes'
-warning2="/say §dPlease wrap up anything critical. It is unlikely you need to restart your client."
+warning1='say §dHi! The server will automatically restart for maintenance in §f5 minutes'
+warning2="say §dPlease wrap up anything critical. It is unlikely you need to restart your client."
 restarting='/say §cRestarting'
 
 echo `date` "[INFO] Attempting to send messages and a killcode to tmux session 'craft'"
